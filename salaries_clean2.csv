@@ -1,0 +1,793 @@
+,salary_id,employer_name,location_name,location_country,location_latitude,location_longitude,job_title,job_title_category,total_experience_years,employer_experience_years,annual_base_pay,signing_bonus,annual_bonus
+0,1,opower,"san francisco, ca",US,37.77,-122.41,systems engineer,Engineering,13.0,2.0,125000.0,5000.0,0.0
+1,3,walmart,"bentonville, ar",US,36.36,-94.2,senior developer,Software,15.0,8.0,65000.0,21800.483568075117,5000.0
+2,4,vertical knowledge,"cleveland, oh",US,41.47,-81.67,software engineer,Software,4.0,1.0,86000.0,5000.0,6000.0
+3,14,casino,eastern oregon,US,38.0,-97.0,it technician,Other,5.0,1.5,40000.0,0.0,500.0
+4,16,tetra tech,"madison, wi",US,43.1,-89.5,lead interviewer,Other,4.0,2.5,45000.0,0.0,1500.0
+5,17,knewton,new york city,US,38.0,-97.0,senior software engineer,Software,8.0,2.0,135000.0,0.0,0.0
+6,24,pensco trust company,"denver, co",US,39.82,-105.1,senior software engineer,Software,10.0,1.5,120000.0,0.0,6000.0
+7,30,purdue,"west lafayette, in",US,40.44,-86.91,web developer,Web,2.0,1.5,60000.0,21800.483568075117,8066.263736263736
+8,39,magento commerce,"charleston, sc",US,32.78,-79.99,member of technical staff,Other,19.0,1.0,131000.0,21800.483568075117,8066.263736263736
+9,40,oracle,"bala cynwyd, pa",US,40.01,-75.22,student intern co-op,Other,0.0,0.0,24.0,0.0,0.0
+10,45,klick,"toronto, canada",CA,60.0,-95.0,full stack developer,Web,5.0,3.0,85000.0,0.0,5000.0
+11,46,small consulting shop,"durham, nc",US,35.98,-78.91,developer,Software,10.0,3.5,150000.0,21800.483568075117,8066.263736263736
+12,48,nbc universal,new york,US,38.0,-97.0,senior analyst,Data,2.0,1.5,55000.0,0.0,0.0
+13,59,quick left,boulder co,US,38.0,-97.0,senior developer,Software,6.0,1.0,120000.0,0.0,0.0
+14,60,1&1 development srl,"bucharest, romania",OM,21.0,57.0,software developer,Software,5.0,2.0,17264.0,0.0,0.0
+15,62,early-stage startup,"stockholm, sweden",SE,62.0,15.0,ios developer,Software,8.0,0.8,36.5,0.0,0.0
+16,64,rei systems,"sterling, va",US,38.86,-77.05,associate software engineer,Software,1.0,1.0,55000.0,21800.483568075117,8066.263736263736
+17,69,mitsubishi hitachi power systems america,"orlando, florida",US,28.5,-81.37,steam turbine service engineer,Engineering,4.0,1.0,80001.0,10000.0,8066.263736263736
+18,70,startup,"detroit, mi",US,42.38,-83.1,senior engineer,Engineering,8.0,3.0,100000.0,0.0,0.0
+19,74,sf startup,"san francisco, ca",US,37.77,-122.41,web developer,Web,5.0,0.5,125000.0,5000.0,10.0
+20,77,intel,"hillsboro, oregon",US,45.52,-122.85,product development engineer,Software,2.5,2.5,82000.0,21800.483568075117,8066.263736263736
+21,79,city of austin,"austin, tx",US,30.26,-97.74,it programmer,Other,40.0,15.0,103000.0,0.0,1500.0
+22,88,early-stage startup,"denver, co",US,39.82,-105.1,director of product,Management,5.0,3.0,80000.0,21800.483568075117,8066.263736263736
+23,89,social tables,washington dc,US,38.0,-97.0,engineer,Engineering,2.0,1.0,80000.0,5000.0,8066.263736263736
+24,90,loyalty new zealand,"wellington, new zealand",NZ,-41.0,174.0,software engineer,Software,2.0,2.0,50000.0,21800.483568075117,5000.0
+25,91,freelance,"denver, co",US,39.82,-105.1,software engineer,Software,20.0,11.0,190000.0,0.0,0.0
+26,95,.gov,"albany, ny",US,42.66,-73.79,architect,Other,18.0,16.0,119000.0,0.0,2000.0
+27,103,stronghold data,joplin mo,US,38.0,-97.0,teir two tech,Other,9.0,4.0,38000.0,0.0,1000.0
+28,104,self-employed,"jersey city, nj",JE,49.25,-2.17,"consultant, cto as needed",Other,8.0,1.0,325000.0,0.0,0.0
+29,109,comcast,"philadelphia, pa",US,39.95,-75.16,python engineer,Engineering,5.0,1.0,138000.0,0.0,0.0
+30,112,linkedin,"san jose, ca",US,37.38,-121.89,site reliability engineer,Engineering,4.0,1.0,140000.0,21800.483568075117,14000.0
+31,114,nara logics,"cambridge, ma",US,42.35,-71.06,software developer,Software,12.0,4.0,115000.0,21800.483568075117,8066.263736263736
+32,118,small b2b company,"barcelona, spain",ES,40.0,-4.0,system administrator,Management,10.0,10.0,1575.0,0.0,3000.0
+33,120,microsoft,"redmond, wa",US,47.68,-122.12,software engineer 1,Software,1.0,1.0,105000.0,15000.0,8066.263736263736
+34,124,nyc singles looking to fuck,new york city,US,38.0,-97.0,horny,Other,3.0,0.5,420000.0,69.0,69.0
+35,125,startup,"san francisco, ca",US,37.77,-122.41,software engineer,Software,2.5,1.0,100000.0,0.0,0.0
+36,127,cornell,"ithaca, ny",US,42.44,-76.5,phd student,Other,4.0,4.0,28500.0,0.0,0.0
+37,128,microsoft,"redmond, wa",US,47.68,-122.12,sde,Software,4.0,2.0,275000.0,0.0,2.0
+38,132,too small to say,"oklahoma city, ok",US,35.46,-97.51,web developer general it,Web,10.0,7.5,88000.0,0.0,8000.0
+39,138,analytics company,"raleigh, nc",US,35.82,-78.65,software developer,Software,11.0,2.0,103000.0,21800.483568075117,12000.0
+40,142,epic,"verona, wisconsin",US,42.98,-89.53,software developer,Software,4.0,2.0,94000.0,21800.483568075117,2000.0
+41,143,evry,"karlstad, sweden",SE,62.0,15.0,consultant,Other,3.0,2.0,380000.0,21800.483568075117,8066.263736263736
+42,152,texas tech  system,"lubbock, tx",US,33.57,-101.87,programmer analyst iii,Data,7.0,3.0,55000.0,0.0,0.0
+43,153,unc-ch/ncsu joint biomedical engr. dept,"raleigh, nc",US,35.82,-78.65,phd student,Other,4.0,1.0,24073.0,0.0,0.0
+44,156,investment bank,"new york, ny",US,40.71,-73.99,m&a analyst,Data,1.0,1.0,85000.0,15000.0,70000.0
+45,161,ihs,poland,PL,52.0,20.0,software engineer,Software,4.0,2.0,30000.0,21800.483568075117,8066.263736263736
+46,162,conde nast,"new york city, ny",US,40.71,-73.99,software engineer - level 2,Software,8.0,4.0,112000.0,0.0,2.0
+47,167,mid-size fundraising startup,"san francisco, ca",US,37.77,-122.41,senior software engineer,Software,11.0,0.0,165000.0,0.0,0.0
+48,168,starbucks coffee company,"seattel, wa",US,38.0,-97.0,senior application developer,Software,10.0,3.0,127000.0,0.0,15.0
+49,191,apple,95014,US,37.3,-122.09,senior system engineer,Engineering,9.0,1.0,130000.0,20000.0,8066.263736263736
+50,193,amazon,98102,US,47.61,-122.33,ux designer ii,Other,1.0,1.0,12000.0,55000.0,15000.0
+51,195,walmartlabs,94086,US,37.38,-122.01,principal/lead software engineer,Software,14.0,4.0,190000.0,150000.0,50000.0
+52,211,intel,"hillsboro, oregon",US,45.52,-122.85,computer hardware engineer,Engineering,1.5,1.5,72000.0,0.0,0.0
+53,215,amazon,98105,US,47.61,-122.33,ux designer ii,Other,1.0,1.0,120000.0,0.0,0.0
+54,217,small ~15 startup,israel,IL,31.47,35.13,senior software engineer,Software,8.0,2.0,90000.0,21800.483568075117,8066.263736263736
+55,219,municipality,"bremerhaven, germany",DE,51.0,9.0,software developer,Software,11.0,7.0,54100.0,21800.483568075117,3595.0
+56,222,microsoft,98004,US,47.61,-122.21,software engineer 2,Software,4.0,3.5,115000.0,50000.0,15000.0
+57,230,analyst warehouse,dallas tx,US,38.0,-97.0,software developer,Software,10.0,1.0,90000.0,0.0,0.0
+58,249,dupont pioneer,"johnston, iowa",US,41.68,-93.7,software developer,Software,10.0,3.0,125000.0,10000.0,15000.0
+59,252,newspaper company,california,US,38.0,-97.0,cto,Management,8.0,1.0,100000.0,0.0,0.0
+60,253,bhhc,"omaha, ne",US,41.15,-95.92,fp&a analyst,Data,3.0,3.0,46500.0,0.0,0.0
+61,254,optum,"plymouth, mn",US,44.96,-93.26,software engineer,Software,6.0,1.0,85000.0,3000.0,5000.0
+62,256,american express,"phoenix, arizona",US,33.45,-112.06,intern,Other,0.0,0.0,60000.0,5000.0,8066.263736263736
+63,262,salesforce,"seattle, wa",US,47.61,-122.33,senior software engineer,Software,3.0,2.0,125000.0,21800.483568075117,18000.0
+64,265,directv/at&t,"culver city, ca",US,33.99,-118.39,application engineer,Engineering,5.0,4.0,79000.0,0.0,10000.0
+65,273,sunpower,"richmond, ca",US,37.96,-122.38,financial engineer,Engineering,0.0,1.0,87000.0,0.0,8000.0
+66,276,mri software llc,"solon, oh",US,41.38,-81.44,software engineer,Software,3.0,1.0,48500.0,21800.483568075117,8066.263736263736
+67,279,pricespy,"Ì_ngelholm, sweden",SE,62.0,15.0,agent developer,Software,0.0,1.0,300000.0,0.0,0.0
+68,294,justice systems,"albuquerque, nm",US,35.11,-106.62,software engineer,Software,2.0,1.0,51000.0,0.0,0.0
+69,305,a stealth startup,washington d.c.,US,38.0,-97.0,lead,Other,17.0,1.0,175000.0,0.0,10000.0
+70,311,myself,"rennes, france",FR,46.0,2.0,3d graphics engineer,Engineering,5.0,1.5,15000.0,21800.483568075117,8066.263736263736
+71,313,iqmetrix,"regina, sk canada",CA,60.0,-95.0,software developer,Software,0.0,1.0,55000.0,0.0,0.0
+72,317,delaware north,"buffalo, ny",US,42.88,-78.85,data visualization engineer,Data,3.0,0.0,80000.0,21800.483568075117,8066.263736263736
+73,324,series c saas provider,"san francisco, ca",US,37.77,-122.41,full stack engineer,Web,16.0,2.0,132000.0,0.0,0.0
+74,325,garmin,"olathe, ks",US,38.88,-94.81,software engineer 2,Software,2.75,2.75,72200.0,4000.0,0.0
+75,326,of oklahoma,"norman, ok",US,35.22,-97.34,it support technician iii,Other,16.0,14.0,37500.0,0.0,0.0
+76,327,aig,"wilton, ct usa",US,41.18,-73.42,microsoft developer for release management (grade 22),Software,20.0,2.0,165000.0,20000.0,0.0
+77,337,nope,united states,US,38.0,-97.0,software developer,Software,5.0,4.0,61000.0,1000.0,1000.0
+78,340,amazon,"seattle, wa",US,47.61,-122.33,sde i,Software,2.0,0.5,105000.0,30000.0,8066.263736263736
+79,342,igs energy,"columbus, oh",US,39.98,-82.98,application developer,Software,3.0,1.0,65000.0,0.0,5000.0
+80,351,spotx,"denver, co",US,39.82,-105.1,software engineer,Software,7.0,2.0,84000.0,1500.0,1500.0
+81,355,perk,"austin, tx",US,30.26,-97.74,developer,Software,2.0,0.0,54000.0,2500.0,0.0
+82,358,building robotics,"oakland, ca",US,37.72,-122.2,senior backend engineer,Engineering,9.0,2.0,145000.0,21800.483568075117,8066.263736263736
+83,364,ibm,"san diego, ca",US,32.71,-117.16,software developer,Software,9.0,8.0,151000.0,15000.0,5000.0
+84,365,quicken loans,"detroit, mi",US,42.38,-83.1,sr. software engineer,Software,5.0,3.0,82000.0,0.0,13000.0
+85,366,bank,"stockholm, sweden",SE,62.0,15.0,junior developer,Software,1.0,1.0,48000.0,0.0,3000.0
+86,371,of washington,"seattle, wa",US,47.61,-122.33,data scientist,Data,10.0,4.0,101000.0,0.0,0.0
+87,374,state of oregon,oregon,US,38.0,-97.0,senior software developer,Software,10.0,5.0,80000.0,0.0,0.0
+88,378,evertec,puerto rico,PR,18.25,-66.5,software developer,Software,2.5,1.5,40000.0,21800.483568075117,2.0
+89,379,nist,"gaithersburg, md",US,39.14,-77.21,postdoc,Other,7.0,1.0,67000.0,0.0,0.0
+90,387,bank,"warsaw, poland",PL,52.0,20.0,data mining analyst,Data,6.0,5.0,30000.0,0.0,0.0
+91,391,bi esfera,"asunciÌ_n, paraguay",PY,-23.0,-58.0,senior developer,Software,10.0,4.0,38400.0,0.0,3200.0
+92,393,guidewire,"dublin, ireland",IE,53.0,-8.0,consultant,Other,4.0,3.0,42000.0,0.0,6300.0
+93,395,new york mets,"new york, new york",US,38.0,-97.0,pitcher,Other,20.0,3.0,1000000.0,4500000.0,500000.0
+94,399,ticket broker,northern california,US,38.0,-97.0,chief of technology,Other,15.0,3.0,125000.0,0.0,6000.0
+95,401,ibm canada,"toronto, canada",CA,60.0,-95.0,peoplesoft administrator,Management,15.0,10.0,112000.0,0.0,0.0
+96,403,freelance/consulting,"vancouver, canada",CA,60.0,-95.0,software engineer,Software,9.0,7.0,270000.0,21800.483568075117,8066.263736263736
+97,405,cisco,canada,CA,60.0,-95.0,software engineer,Software,15.0,3.0,110000.0,0.0,14000.0
+98,406,boutique development consulting,"denver,  co",US,39.82,-105.1,consultant,Other,4.0,1.0,88000.0,21800.483568075117,4500.0
+99,407,self-employed,"kingston, canada",CA,60.0,-95.0,consultant,Other,10.0,1.0,180000.0,21800.483568075117,8066.263736263736
+100,411,missouri  of science and technology,"rolla, mo, usa",US,37.94,-91.76,secondary cluster administrator,Management,3.0,1.0,43000.0,0.0,0.0
+101,417,solidfire,"boulder, co",US,40.02,-105.25,senior software engineer,Software,4.0,2.0,113000.0,0.0,9000.0
+102,435,amazon,"seattle, wa",US,47.61,-122.33,sr. product manager,Management,7.0,2.7,128000.0,50000.0,8066.263736263736
+103,441,microsoft,"seattle, wa",US,47.61,-122.33,software development engineer,Software,10.0,10.0,190000.0,0.0,65000.0
+104,443,simplotel,"bangalore, india",IN,20.0,77.0,senior software engineer,Software,3.5,1.0,18000.0,0.0,8066.263736263736
+105,446,popsugar,"san francisco, ca",US,37.77,-122.41,senior software engineer,Software,12.0,1.0,135000.0,0.0,0.0
+106,466,private,"stuart, fl",US,27.19,-80.24,web developer,Web,10.0,2.0,75000.0,0.0,0.0
+107,475,i.b.m.,north carolina,US,38.0,-97.0,senior software engineer,Software,18.0,12.0,29000.0,0.0,0.0
+108,479,liveperson,"atlanta, georgia",GE,42.0,43.5,devops engineer,Engineering,1.0,1.0,46999.0,0.0,0.0
+109,480,facebook,"seattle, wa usa",US,47.61,-122.33,software engineer,Software,7.0,3.0,167000.0,25000.0,25000.0
+110,487,typical norwegian consulting firm,"oslo, norway",NO,62.0,10.0,android developer,Software,2.0,0.5,450000.0,0.0,0.0
+111,489,ignition one,new york city,US,38.0,-97.0,software engineer,Software,8.0,1.0,155000.0,0.0,36000.0
+112,492,lockheed martin,"owego, ny",US,42.1,-76.26,associate electrical engineer,Engineering,1.0,1.0,60528.0,0.0,0.0
+113,494,anaheim ducks,"anaheim, ca",US,33.83,-117.88,"professional ice hockey player, center",Other,16.0,10.0,9250000.0,5000000.0,8066.263736263736
+114,495,optum,"boston, ma",US,42.35,-71.06,junior systems engineer,Engineering,1.0,3.0,80000.0,0.0,5.0
+115,499,intel,"santa clara, ca",US,37.34,-121.95,senior software engineer,Software,12.0,4.0,145000.0,0.0,30000.0
+116,501,viacom,new york city,US,38.0,-97.0,ios developer,Software,1.0,0.0,92000.0,0.0,0.0
+117,502,education,florida,US,38.0,-97.0,it director,Management,20.0,10.0,75000.0,21800.483568075117,8066.263736263736
+118,517,paychex,"rochester, ny",US,43.16,-77.61,junior java developer,Software,2.0,0.0,60000.0,0.0,8066.263736263736
+119,518,midstage startup,"san francisco, ca",US,37.77,-122.41,software developer,Software,1.0,1.0,120000.0,0.0,12000.0
+120,519,microsoft,"redmond, wa",US,47.68,-122.12,software developer,Software,2.0,2.0,120000.0,8000.0,8000.0
+121,521,nokia,canada,CA,60.0,-95.0,software development engineer,Software,3.0,3.0,57450.0,21800.483568075117,7.0
+122,523,city of college station,"college station, tx",US,30.6,-96.31,systems analyst,Data,2.0,1.0,51000.0,0.0,0.0
+123,531,harvard,"cambridge, ma",US,42.35,-71.06,graduate student / research assistant,Other,6.0,6.0,32000.0,0.0,0.0
+124,532,nasa,washington dc,US,38.0,-97.0,software engineer,Software,1.0,1.0,78000.0,21800.483568075117,8066.263736263736
+125,537,amex,new york,US,38.0,-97.0,software engineer,Software,3.0,1.0,98000.0,9000.0,8066.263736263736
+126,538,linklaters,new york city,US,38.0,-97.0,it support engineer,Engineering,6.0,0.0,50000.0,0.0,0.0
+127,542,exl landa,chico ca,US,38.0,-97.0,software qa tech,Software,5.0,5.0,45000.0,21800.483568075117,2000.0
+128,544,netsuite,"oklahoma city, ok",US,35.46,-97.51,sr. software engineer ii,Software,15.0,1.0,120000.0,0.0,0.0
+129,546,netlight consulting,"stockholm, sweden",SE,62.0,15.0,consultant,Other,2.0,1.0,52200.0,0.0,0.0
+130,556,quintiq,"radnor, pa",US,39.96,-75.35,algorithm expert,Other,5.0,1.0,80000.0,0.0,4000.0
+131,561,vml,"kansas city, mo",US,39.1,-94.62,interactive web developer,Web,4.0,1.0,55000.0,0.0,0.0
+132,562,c2s tech,"redmond, wa",US,47.68,-122.12,front end developer,Web,5.0,0.5,60000.0,0.0,0.0
+133,564,earwigs,monaco,MC,43.73,7.4,lead earwig specialist,Other,10.0,10.0,1000000.0,1000000.0,1000000.0
+134,566,12 employee startup,"calgary, canada",CA,60.0,-95.0,front end web developer,Web,3.0,1.0,70000.0,0.0,0.0
+135,570,amazon,"seattle, wa",US,47.61,-122.33,software development engineer ii,Software,4.0,2.0,121000.0,38000.0,0.0
+136,571,of rochester brain and cognitive sciences,rochester ny,US,38.0,-97.0,graduate student,Other,3.0,3.0,26000.0,0.0,0.0
+137,575,1000+ consulting company / service contractor,"dortmund, germany",DE,51.0,9.0,software engineer,Software,2.0,2.0,45000.0,0.0,5000.0
+138,582,mobiquity,"gainesville, fl",US,29.67,-82.33,ios developer,Software,2.0,1.25,55000.0,0.0,0.0
+139,592,d-wave,vancouver bc,CA,60.0,-95.0,algorithmic software developer,Software,3.0,1.0,90000.0,0.0,0.0
+140,593,meltwater,sweden,SE,62.0,15.0,developer,Software,6.0,0.0,56000.0,0.0,4000.0
+141,596,wyle,"lexington park, md",US,38.26,-76.44,software engineer,Software,7.0,3.0,79000.0,0.0,0.0
+142,598,50-person startup post series a,"washington, dc",US,38.0,-97.0,software engineer,Software,3.0,1.0,115000.0,10000.0,8066.263736263736
+143,599,lockheed martin,"austin, tx",US,30.26,-97.74,senior business analyst,Data,7.0,3.0,99500.0,0.0,4000.0
+144,600,an unnamed advertising agency,"halifax, ns, canada",CA,60.0,-95.0,devops lead,Other,3.0,1.0,53000.0,0.0,1500.0
+145,601,logic technology,"schenectady, ny",US,42.85,-73.9,technical director,Management,13.0,12.0,93500.0,0.0,15000.0
+146,607,self,"washington, dc",US,38.0,-97.0,independent software engineer,Software,14.0,6.0,230000.0,0.0,0.0
+147,610,government/higher education,arizona,US,38.0,-97.0,developer / system analyst,Data,6.0,3.0,46000.0,0.0,0.0
+148,626,aecom,"richmond, ky",US,37.74,-84.29,automation engineer,Engineering,17.0,4.0,112000.0,0.0,0.0
+149,629,business insider,"new york, ny",US,40.71,-73.99,director of infrastructure,Management,3.0,1.0,125000.0,0.0,10000.0
+150,631,gnaa,compton ca,US,38.0,-97.0,nigger in cheif,Other,12.0,12.0,690000.0,21800.483568075117,8066.263736263736
+151,633,financial software company,"washington, dc",US,38.0,-97.0,software engineer,Software,4.0,2.0,140000.0,0.0,0.0
+152,636,secretsecretsecret,canada,CA,60.0,-95.0,team lead,Management,6.0,3.0,72600.0,0.0,0.0
+153,638,consulting company,"chicago, il",US,41.85,-87.65,devops engineer,Engineering,6.0,3.0,95000.0,0.0,0.0
+154,646,yext,new york,US,38.0,-97.0,engineer,Engineering,3.0,2.0,100000.0,21800.483568075117,8066.263736263736
+155,647,18f,new york city,US,38.0,-97.0,innovation specialist,Other,7.0,0.0,145000.0,0.0,0.0
+156,648,shell oil,"houston, tx",US,29.76,-95.38,application developer,Software,10.0,2.0,216000.0,21800.483568075117,8066.263736263736
+157,649,logic technology,"schenectady, ny",US,42.85,-73.9,technical director,Management,13.0,12.0,73000.0,0.0,5000.0
+158,653,self emplyed,"warsaw, poland",PL,52.0,20.0,developer,Software,6.0,3.0,28.0,0.0,0.0
+159,658,livingsocial,"portland, or",US,45.44,-122.52,sr. software engineer,Software,7.0,2.0,108000.0,21800.483568075117,2000.0
+160,659,arbor networks,"ann arbor, mi",US,42.27,-83.73,software engineer,Software,3.0,1.0,105000.0,21800.483568075117,8066.263736263736
+161,665,m.h. frank ltd.,"clemson, sc",US,34.68,-82.81,sales associate,Other,3.0,3.0,12000.0,0.0,100.0
+162,668,luminoso,"cambridge, ma",US,42.35,-71.06,software engineer,Software,2.0,1.0,75000.0,0.0,0.0
+163,672,startup,"san francisco (palo alto), ca",US,38.0,-97.0,software engineer,Software,3.0,1.0,100000.0,2500.0,1500.0
+164,676,google,new york,US,38.0,-97.0,software engineer,Software,1.0,1.0,115000.0,15000.0,15000.0
+165,683,deloitte,south africa,ZA,-29.0,24.0,assistant manager,Management,5.0,0.5,45000.0,0.0,800.0
+166,684,united states government,"fayetteville, ar",US,36.04,-94.24,it technician,Other,2.0,1.0,49300.0,21800.483568075117,150.0
+167,687,amazon,germany,DE,51.0,9.0,sde2,Software,7.0,3.0,70000.0,10000.0,8066.263736263736
+168,694,enterprise software company,"pleasanton, ca",US,37.65,-121.85,front end developer,Web,15.0,1.0,105000.0,0.0,0.0
+169,695,ebay,"san jose, ca",US,37.38,-121.89,mts ii software engineer,Software,20.0,8.0,181000.0,21800.483568075117,20000.0
+170,697,teksystems,"lincoln, ne",US,40.81,-96.68,senior applications developer,Software,10.0,3.0,80000.0,0.0,0.0
+171,700,neustar,"sterling, va",US,38.86,-77.05,software engineer ii,Software,4.0,3.0,89000.0,21800.483568075117,10.0
+172,712,alliant energy,"madison, wi",US,43.1,-89.5,senior it analyst,Data,8.0,1.0,103000.0,0.0,15450.0
+173,715,expedia,"bellevue, wa",US,47.61,-122.21,software development engineer i,Software,1.0,0.0,105500.0,20000.0,10.0
+174,719,best buy,"minneapolis, mn",US,44.96,-93.26,web engineer ii,Web,7.0,2.0,125000.0,5000.0,15000.0
+175,728,iac applications,"yonkers, ny",US,40.94,-73.86,senior engineer,Engineering,16.0,10.0,124000.0,3000.0,10000.0
+176,730,microsoft,"redmond, wa",US,47.68,-122.12,software development engineer 2,Software,7.0,3.0,124000.0,55000.0,2600.0
+177,734,bloomberg,new york city,US,38.0,-97.0,software engineer,Software,0.0,0.0,117000.0,0.0,17000.0
+178,748,bulletproof,"sydney, australia",AU,-27.0,133.0,engineer,Engineering,15.0,3.5,160000.0,0.0,0.0
+179,753,nbcuniversal,"boise, id (remote, job is based in nyc)",US,43.62,-116.32,senior software engineer,Software,10.0,1.5,113375.0,0.0,0.0
+180,767,sparefoot,"austin, tx",US,30.26,-97.74,php developer,Software,3.0,1.0,150000.0,20000.0,10000.0
+181,778,brazilian startup,brazil,BR,-10.0,-55.0,senior developer,Software,10.0,3.0,90000.0,0.0,0.0
+182,780,wpp,new york,US,38.0,-97.0,executive director of user experience,Management,18.0,2.0,195000.0,15000.0,10.0
+183,781,square,"san francisco, ca",US,37.77,-122.41,software engineer,Software,4.0,3.0,110000.0,0.0,0.0
+184,802,cconsultancy firm,dublin ireland,IE,53.0,-8.0,senior software developer,Software,8.5,7.0,62500.0,0.0,3000.0
+185,813,startup,"cambridge, ma",US,42.35,-71.06,engineer,Engineering,2.0,2.0,130000.0,0.0,10000.0
+186,818,online training company,ireland,IE,53.0,-8.0,software development manager,Management,10.0,1.0,70000.0,0.0,30000.0
+187,828,medium sized isv,"montreal, quebec, canada",CA,60.0,-95.0,application analyst,Data,16.0,6.0,81500.0,0.0,3000.0
+188,830,startup,mississippi,US,38.0,-97.0,software developer,Software,3.0,2.0,49000.0,0.0,700.0
+189,834,sef,"san francisco, ca",US,37.77,-122.41,founder,Management,20.0,1.0,0.0,0.0,0.0
+190,836,stanford,"stanford, ca",US,37.41,-122.17,graduate student researcher,Other,3.0,6.0,32000.0,0.0,0.0
+191,838,sandia national laboratories,"albuquerque, new mexico",MX,23.0,-102.0,research intern,Other,2.0,0.0,46000.0,0.0,0.0
+192,847,careworks tech,"columbus, oh",US,39.98,-82.98,lead front-end web developer,Web,5.0,2.0,77957.56,0.0,0.0
+193,848,sacramento county,"sacramento, ca",US,38.58,-121.49,it analyst i,Data,4.0,1.0,61000.0,0.0,0.0
+194,849,unnamed pre-series a startup,"cologne, germany",DE,51.0,9.0,software engineer,Software,2.0,0.0,48000.0,0.0,4000.0
+195,852,niehs,"durham, nc",US,35.98,-78.91,software developer,Software,2.0,1.0,68000.0,0.0,0.0
+196,854,netspend,"austin, tx",US,30.26,-97.74,front-end developer,Web,1.0,1.0,72000.0,0.0,5500.0
+197,868,ad-tech,new york,US,38.0,-97.0,senior data analyst,Data,8.0,2.0,110000.0,0.0,10000.0
+198,873,deka research,"manchester, nh",US,42.99,-71.45,software engineer,Software,5.0,3.0,69000.0,2000.0,3000.0
+199,880,verizon,"waltham, ma",US,42.38,-71.24,senior software engineer,Software,7.0,2.0,110000.0,21800.483568075117,8066.263736263736
+200,882,domo,"american fork, ut",US,40.39,-111.78,account executive,Management,5.0,1.0,80000.0,25000.0,140000.0
+201,883,hp,bulgaria,BG,43.0,25.0,unix support engineer level 1,Engineering,1.0,1.0,5600.0,0.0,0.0
+202,888,moven,"radnor, pa",US,39.96,-75.35,software engineer,Software,8.0,1.0,105000.0,0.0,0.0
+203,902,microsoft,"redmond, wa",US,47.68,-122.12,sde,Software,5.0,1.0,115000.0,15000.0,8066.263736263736
+204,908,large retailer,"new york, ny",US,40.71,-73.99,interactive designer,Other,9.0,4.0,67000.0,0.0,0.0
+205,912,twitter,new york city,US,38.0,-97.0,senior software engineer,Software,15.0,2.0,155000.0,0.0,0.0
+206,924,oracle,southern california,US,38.0,-97.0,ux developer,Software,10.0,5.0,100000.0,21800.483568075117,8066.263736263736
+207,927,1st4connect,"lahore, pakistan",PK,30.0,70.0,software developer engineer,Software,3.0,1.0,100000.0,21800.483568075117,8066.263736263736
+208,932,nike,"beaverton, or",US,45.49,-122.8,senior technical project manager,Management,10.0,1.0,124000.0,0.0,0.0
+209,934,fresh code,"salt lake city, utah",US,40.75,-111.9,software engineer,Software,5.0,0.5,95000.0,0.0,0.0
+210,935,ericsson,ireland,IE,53.0,-8.0,software engineer,Software,4.0,1.0,40000.0,0.0,0.0
+211,939,ak systems,new york,US,38.0,-97.0,software engineer,Software,10.0,6.0,120000.0,21800.483568075117,10000.0
+212,944,freelance,peru,PE,-10.0,-76.0,software engineer,Software,5.0,2.0,200000.0,0.0,0.0
+213,948,cox automotive,"burlington, vt",US,44.48,-73.22,ui developer,Software,4.0,1.5,73500.0,0.0,5.0
+214,958,state farm,"phoenix, az",US,33.45,-112.06,software developer,Software,2.0,1.0,63000.0,4000.0,6000.0
+215,960,plain vanilla,iceland,IS,65.0,-18.0,software developer,Software,3.0,1.0,62000.0,0.0,0.0
+216,964,digitalocean,new york,US,38.0,-97.0,sre,Other,10.0,2.0,173000.0,25000.0,5000.0
+217,977,google,new york city,US,38.0,-97.0,software engineer ii (level 3),Software,4.0,1.0,117500.0,0.0,18000.0
+218,979,twitter,"san francisco, ca",US,37.77,-122.41,software engineer,Software,3.0,1.0,140000.0,0.0,0.0
+219,988,facebook,north carolina,US,38.0,-97.0,software engineer,Software,12.0,2.0,198000.0,25000.0,40000.0
+220,990,-,"brisbane, australia",AU,-27.0,133.0,senior software engineer,Software,15.0,1.0,115000.0,0.0,0.0
+221,993,l-mobile software solutions gmbh,"sulzbach an der murr, germany",DE,51.0,9.0,software engineer,Software,6.0,4.0,40000.0,0.0,0.0
+222,998,intel,"folsom, ca",US,38.67,-121.14,application developer,Software,2.0,2.0,74000.0,6000.0,3000.0
+223,999,sovrn holdings,"boulder, co",US,40.02,-105.25,software engineer,Software,6.0,1.0,105000.0,0.0,0.0
+224,1003,,"interior bc, canada",CA,60.0,-95.0,software engineer (intermediate),Software,7.0,0.0,100000.0,0.0,0.0
+225,1007,vitelity communications,"englewood, co",US,39.76,-104.87,software engineer,Software,5.0,3.0,70000.0,21800.483568075117,8066.263736263736
+226,1009,amazon,"santa monica, ca",US,34.01,-118.49,sde i,Software,1.0,1.0,95000.0,27000.0,0.0
+227,1011,digitalocean,virginia,US,38.0,-97.0,ruby engineer,Engineering,10.0,1.0,130000.0,0.0,7000.0
+228,1019,photo hosting company,"mountain view, ca",US,37.41,-122.05,engineer,Engineering,13.0,3.0,150000.0,0.0,2000.0
+229,1025,ixl learning,"san mateo, ca",US,37.57,-122.32,sr. software engineer,Software,4.0,3.0,125000.0,0.0,0.0
+230,1026,mitre,bedford ma,US,38.0,-97.0,lead software systems engineer,Software,10.0,6.0,111500.0,3500.0,0.0
+231,1027,ibm,south carolina,US,38.0,-97.0,senior systems analyst,Data,16.0,10.0,94000.0,21800.483568075117,0.0
+232,1029,6 person startup,"san francisco, ca",US,37.77,-122.41,software engineer,Software,2.0,0.0,105000.0,5000.0,8066.263736263736
+233,1033,self,"minneapolis, mn",US,44.96,-93.26,senior front-end/full-stack developer,Web,8.0,1.0,135000.0,21800.483568075117,8066.263736263736
+234,1037,e commerce company,"boston, ma",US,42.35,-71.06,‰ÛÜsr engineer,Engineering,12.0,4.0,135000.0,0.0,20000.0
+235,1038,cgi,canada,CA,60.0,-95.0,senior consultant,Other,5.0,4.0,40000.0,0.0,800.0
+236,1040,ecommerce startup,"salt lake city, ut",US,40.75,-111.9,magento developer,Software,6.0,1.5,37500.0,0.0,15.0
+237,1041,state of california,"sacramento, ca",US,38.58,-121.49,staff programmer,Other,4.0,3.0,65000.0,21800.483568075117,8066.263736263736
+238,1042,startup,"adelaide, australia",AU,-27.0,133.0,senior software engineer,Software,15.0,4.0,85000.0,0.0,0.0
+239,1043,dish,"denver, co",US,39.82,-105.1,software engineer,Software,1.0,1.0,70000.0,0.0,0.0
+240,1044,uppsala,sweden,SE,62.0,15.0,post-doc,Other,6.0,6.0,51000.0,21800.483568075117,8066.263736263736
+241,1053,the motley fool,"alexandria, va",US,38.86,-77.05,systems administrator,Management,5.0,2.0,85000.0,0.0,8066.263736263736
+242,1054,ut dallas,plano tx,US,38.0,-97.0,programmer iii,Other,4.0,2.5,67500.0,0.0,0.0
+243,1058,datis hr cloud,"tampa, fl",US,27.95,-82.48,software developer,Software,15.0,0.0,115000.0,5000.0,2500.0
+244,1063,microsoft,"redmond, wa",US,47.68,-122.12,software engineer,Software,7.0,7.0,144000.0,0.0,20000.0
+245,1064,ibm,"austin, tx",US,30.26,-97.74,software engineer,Software,1.0,1.0,101000.0,10000.0,8066.263736263736
+246,1065,washington post,"washington, dc",US,38.0,-97.0,full stack developer,Web,3.0,1.0,80000.0,5000.0,0.0
+247,1066,big  via middleman agency,south of france,FR,46.0,2.0,front-end engineer,Web,5.0,3.0,42000.0,1000.0,0.0
+248,1067,springfield power company,"springsfield, co",US,38.0,-97.0,nuclear safety inspector,Other,30.0,30.0,24395.8,0.0,0.0
+249,1075,ontact,"salt lake city, ut",US,40.75,-111.9,senior software engineer,Software,7.0,4.0,95000.0,0.0,8000.0
+250,1076,small consulting firm,"arlington, va",US,38.86,-77.05,software developer,Software,0.5,0.5,70000.0,5000.0,8066.263736263736
+251,1080,accenture,washington dc,US,38.0,-97.0,analyst,Data,2.0,2.0,72000.0,5000.0,5000.0
+252,1084,client in hr,france - lyon,FR,46.0,2.0,developer,Software,1.0,1.0,25000.0,0.0,0.0
+253,1085,school of visual arts,"new york, ny",US,40.71,-73.99,systems administration,Management,15.0,3.0,45000.0,21800.483568075117,8066.263736263736
+254,1087,onera,"toulouse, france",FR,46.0,2.0,phd candidate,Other,5.0,4.0,32000.0,0.0,0.0
+255,1088,amazon,"seattle, wa",US,47.61,-122.33,technical program manager,Management,10.0,0.0,130000.0,37000.0,8066.263736263736
+256,1091,think big,"mountain view, ca",US,37.41,-122.05,senior data engineer,Data,5.0,4.0,145000.0,0.0,15000.0
+257,1093,microsoft,"redmond, wa",US,47.68,-122.12,software engineer ii,Software,7.0,7.0,128000.0,30000.0,10000.0
+258,1094,(private),"boston, ma",US,42.35,-71.06,creative director + designer/developer,Management,12.0,4.0,100000.0,0.0,0.0
+259,1098,pricewaterhousecoopers,australia,AU,-27.0,133.0,senior software engineer,Software,5.0,1.0,97000.0,0.0,2000.0
+260,1106,kbc,belgium,BE,50.83,4.0,data scientist,Data,5.0,2.0,69000.0,0.0,5000.0
+261,1112,startup (15-20 people),"san francisco, ca",US,37.77,-122.41,senior software engineer,Software,6.0,0.5,150000.0,21800.483568075117,8066.263736263736
+262,1113,epic systems,"verona, wisconsin",US,42.98,-89.53,software developer,Software,0.9,0.9,95000.0,10000.0,8066.263736263736
+263,1120,bah,maryland,US,38.0,-97.0,senior software engineer,Software,15.0,1.0,101000.0,0.0,0.0
+264,1122,freelance,"portland, or",US,45.44,-122.52,front-end developer,Web,1.0,1.0,75000.0,21800.483568075117,8066.263736263736
+265,1123,microsoft,"redmond, wa",US,47.68,-122.12,service engineer,Engineering,3.0,1.0,105000.0,5000.0,8066.263736263736
+266,1126,hcl america,"redmond, wa",US,47.68,-122.12,system administrator,Management,10.0,2.0,55000.0,0.0,0.0
+267,1128,fcsa,"omaha, ne",US,41.15,-95.92,software engineer - consultant,Software,12.0,1.0,150000.0,0.0,0.0
+268,1133,life time fitness,"louisville, co",US,39.96,-105.14,software engineer,Software,5.0,1.0,75000.0,0.0,0.0
+269,1134,ergon energy,"brisbane, australia",AU,-27.0,133.0,senior telecommunications specialist,Other,10.0,1.0,1250000.0,0.0,0.0
+270,1135,nav canada,"ottawa, canada",CA,60.0,-95.0,software developer,Software,5.0,1.0,83000.0,0.0,0.0
+271,1137,billups,97034,US,45.4,-122.68,director of product management,Management,15.0,1.0,135000.0,0.0,0.0
+272,1146,reply spa,germany,DE,51.0,9.0,consultant,Other,0.0,0.0,45000.0,0.0,0.0
+273,1148,bitdefender srl,"cluj-napoca, romania",OM,21.0,57.0,software engineer,Software,2.0,2.0,21500.0,0.0,0.0
+274,1162,buffer,"toronto, on",CA,60.0,-95.0,mobile engineering lead,Engineering,6.0,2.0,103595.0,0.0,0.0
+275,1166,eastman chemical company,"kingsport, tn",US,36.52,-82.55,accountant,Other,2.0,2.0,62000.0,2500.0,8066.263736263736
+276,1169,centurylink,"denver, co",US,39.82,-105.1,software engineer,Software,3.0,1.0,80000.0,0.0,4000.0
+277,1174,microsoft,"redmond, wa",US,47.68,-122.12,senior software engineer,Software,4.0,4.0,147000.0,5000.0,26000.0
+278,1179,freelance,"zurich, switzerland",CH,47.0,8.0,software security engineer,Software,10.0,0.0,140000.0,0.0,20000.0
+279,1187,rackspace,"austin, tx",US,30.26,-97.74,software engineer,Software,5.0,1.0,135000.0,0.0,15.0
+280,1190,thermo fisher scientific,"lowell, ma",US,42.63,-71.32,software engineer ii,Software,3.0,2.0,84000.0,5000.0,4000.0
+281,1192,protolabs,minnesota,US,38.0,-97.0,analyst,Data,3.0,1.0,45000.0,21800.483568075117,1500.0
+282,1194,of illinois,"champaign, il",US,40.11,-88.26,communications specialist,Other,6.0,3.0,58000.0,21800.483568075117,8066.263736263736
+283,1200,google,"mountain view, ca",US,37.41,-122.05,web solutions engineer,Web,10.0,1.0,120000.0,0.0,18000.0
+284,1204,paypal,maryland,US,38.0,-97.0,software engineer,Software,1.0,1.0,80000.0,10000.0,10.0
+285,1206,undisclosed,"portland, or",US,45.44,-122.52,sr. support engineer,Engineering,15.0,4.0,97000.0,0.0,0.0
+286,1208,indiana,"indianapolis, in",IN,20.0,77.0,it systems specialist,Other,10.0,1.0,85000.0,0.0,0.0
+287,1221,ibm,"irvine, ca",US,33.74,-117.76,staff software engineer,Software,4.0,4.0,88800.0,0.0,1000.0
+288,1226,interviewjet,new york city,US,38.0,-97.0,head of talent,Other,2.0,1.0,50000.0,0.0,0.0
+289,1227,philips,"eindhoven, netherlands",NL,52.5,5.75,software engineer,Software,6.0,3.0,55000.0,6000.0,8066.263736263736
+290,1235,ericsson,hungary,HU,47.0,20.0,software developer,Software,10.0,10.0,28000.0,0.0,1500.0
+291,1237,apple,"cupertino, ca",US,37.3,-122.09,firmware engineer,Engineering,5.0,4.0,120000.0,10000.0,10000.0
+292,1240,amazon,new york,US,38.0,-97.0,sde2,Software,8.0,3.0,140000.0,40000.0,0.0
+293,1252,toyota,"costa mesa, california",US,33.67,-117.9,senior javascript engineer,Engineering,9.0,1.0,124000.0,0.0,5000.0
+294,1255,george mason,"fairfax, va",US,38.86,-77.05,assistant professor,Other,4.0,4.0,102000.0,0.0,20400.0
+295,1258,crytek,"frankfurt, germany",DE,51.0,9.0,web developer,Web,8.0,1.0,50000.0,0.0,0.0
+296,1262,bisite research group,"salamanca, spain",ES,40.0,-4.0,intern software engineer,Software,4.0,0.0,5160.0,0.0,0.0
+297,1266,qualcomm,colorado,US,38.0,-97.0,senior engineer,Engineering,4.0,4.0,120000.0,20000.0,5000.0
+298,1272,penn medicine,"philadelphia, pa",US,39.95,-75.16,senior software developer,Software,5.0,2.0,90000.0,0.0,0.0
+299,1278,bloomberg,new york,US,38.0,-97.0,software engineer,Software,8.0,2.0,150000.0,21800.483568075117,20000.0
+300,1279,elisa,"helsinki, finland",FI,64.0,26.0,senior software engineer,Software,13.0,11.0,48000.0,0.0,1000.0
+301,1280,agl energy,"melbourne, australia",AU,-27.0,133.0,analyst,Data,3.0,1.0,90000.0,0.0,10000.0
+302,1288,shadowfax,india,IN,20.0,77.0,business analyst,Data,3.0,1.0,25000.0,0.0,2500.0
+303,1299,too small to say publicly,"dayton, oh",US,39.77,-84.19,research engineer,Engineering,7.0,1.0,119500.0,0.0,0.0
+304,1301,Fraunhofer,germany,DE,51.0,9.0,post doc in computer science,Applied Science,7.0,7.0,60480.0,0.0,0.0
+305,1309,oracle,california,US,38.0,-97.0,software architect,Software,13.0,1.0,400000.0,21800.483568075117,50000.0
+306,1310,prominent consultancy,new york city,US,38.0,-97.0,mobile developer,Software,3.0,1.0,111000.0,5000.0,0.0
+307,1323,red ratos brazil,brazil,BR,-10.0,-55.0,senior software engineer,Software,8.0,4.0,27000.0,21800.483568075117,4000.0
+308,1324,small startup ~8 employees,"tel aviv, israel",IL,31.47,35.13,ruby engineer,Engineering,9.0,3.0,56000.0,0.0,0.0
+309,1328,pzu s.a.,"warsaw, poland",PL,52.0,20.0,software developer,Software,3.0,1.0,27000.0,0.0,0.0
+310,1332,microsoft,"seattle, wa",US,47.61,-122.33,senior applied scientist,Applied Science,6.0,6.0,155000.0,0.0,30000.0
+311,1338,blink creative,"melbourne, australia",AU,-27.0,133.0,junior web developer,Web,4.0,1.0,38150.0,0.0,0.0
+312,1342,craftsy,"denver, co",US,39.82,-105.1,lead engineer,Engineering,11.0,4.0,120000.0,0.0,0.0
+313,1344,shutterstock,"new york, ny",US,40.71,-73.99,infrastructure engineer,Engineering,8.0,1.5,139000.0,21800.483568075117,10.0
+314,1346,neuvoo,venezuela,VE,8.0,-66.0,full stack software engineer,Web,3.0,0.0,8400.0,0.0,0.0
+315,1354,codechangers,"st. george, ut",US,38.0,-97.0,content manager,Management,3.0,0.0,45000.0,0.0,0.0
+316,1355,bloomberg,"new york, ny",US,40.71,-73.99,software developer,Software,3.0,3.0,139000.0,5000.0,17000.0
+317,1356,umbc imaging research center,"baltimore, md",US,39.3,-76.61,faculty research assistant,Other,2.0,1.0,42000.0,0.0,0.0
+318,1357,rupeal,"lisbon, portugal",PT,39.5,-8.0,senior software developer,Software,9.0,2.0,40000.0,21800.483568075117,8066.263736263736
+319,1359,hearst,new york,US,38.0,-97.0,software engineer,Software,10.0,2.0,150000.0,0.0,0.0
+320,1366,murex,new york,US,38.0,-97.0,consultant,Other,4.0,4.0,100000.0,21800.483568075117,20000.0
+321,1368,digitaslbi,new york city,US,38.0,-97.0,senior analyst,Data,2.0,0.0,90000.0,0.0,0.0
+322,1369,google,new york city,US,38.0,-97.0,software engineer ii,Software,5.0,1.5,124000.0,10000.0,22000.0
+323,1370,new york,"new york, ny",US,40.71,-73.99,grader,Other,1.0,1.0,6320.0,0.0,0.0
+324,1372,salesforce,"san francisco, ca",US,37.77,-122.41,lead member of technical staff,Other,9.0,1.5,170000.0,25000.0,25000.0
+325,1377,vmware,"palo alto, ca",US,37.44,-122.15,member of technical staff ii,Other,1.0,1.0,115000.0,33750.0,13800.0
+326,1380,trade me ltd,new zealand,NZ,-41.0,174.0,developer,Software,8.0,5.0,89000.0,21800.483568075117,0.0
+327,1381,a small cad compary,"centennial, co",US,39.69,-104.81,software engineer,Software,2.0,1.0,66500.0,0.0,0.0
+328,1383,knewton,new york city,US,38.0,-97.0,senior software engineer,Software,2.5,2.5,140000.0,0.0,0.0
+329,1386,a software company,poland,PL,52.0,20.0,team leader,Other,4.0,2.0,19000.0,0.0,500.0
+330,1407,a non-profit research institute,"berlin, germany",DE,51.0,9.0,software engineer,Software,9.0,1.5,48160.0,0.0,0.0
+331,1412,automotive,austin tx,US,38.0,-97.0,software test,Software,6.0,3.0,65000.0,0.0,7000.0
+332,1426,bloomberg lp,"new york, ny",US,40.71,-73.99,senior software egnineer,Software,2.0,2.0,120000.0,0.0,20000.0
+333,1428,startup,india,IN,20.0,77.0,web developer,Web,0.5,0.5,3609.0,21800.483568075117,8066.263736263736
+334,1432,shutterstock,new york,US,38.0,-97.0,engineer,Engineering,5.0,3.0,100000.0,0.0,0.0
+335,1434,harvard,"cambridge, ma",US,42.35,-71.06,research fellow,Other,5.0,2.0,62000.0,0.0,0.0
+336,1441,oracle,"seattle, wa",US,47.61,-122.33,ux developer,Software,8.0,5.0,129500.0,0.0,0.0
+337,1442,saic,"huntsville, al",US,34.7,-86.62,senior computer engineer,Engineering,25.0,8.0,119000.0,0.0,0.0
+338,1443,city of carson city,"carson city, nv",US,39.14,-119.71,it systems technician,Other,4.0,1.0,46000.0,21800.483568075117,8066.263736263736
+339,1446,intel,"folsom, ca",US,38.67,-121.14,software engineering manager,Management,16.0,2.0,160000.0,10000.0,25000.0
+340,1458,kpmg,new york,US,38.0,-97.0,manager,Management,5.0,5.0,105000.0,0.0,10000.0
+341,1459,hewlett packard enterprise,"roseville, ca",US,38.74,-121.25,software engineer,Software,4.0,19.0,125000.0,0.0,5700.0
+342,1462,google,belgium,BE,50.83,4.0,operations engineer,Engineering,6.5,1.5,67500.0,0.0,13500.0
+343,1465,intel,"folsom, ca",US,38.67,-121.14,software engineer,Software,15.0,3.0,135000.0,25000.0,15000.0
+344,1467,lawrence livermore national laboratory,"livermore, ca",US,37.68,-121.75,ses.2,Other,4.0,3.0,120000.0,21800.483568075117,8066.263736263736
+345,1474,austin ai startup,"austin, tx",US,30.26,-97.74,ui team lead,Management,5.0,1.5,90000.0,0.0,20000.0
+346,1475,online loan company,chicago il,US,38.0,-97.0,sr software engineer,Software,6.0,2.0,92700.0,0.0,92700.0
+347,1482,pre series a startup,"copenhagen, denmark",DK,56.0,10.0,lead software engineer,Software,5.0,1.0,108500.0,21800.483568075117,8066.263736263736
+348,1488,d2l,"kitchener, canada",CA,60.0,-95.0,software developer,Software,3.0,3.0,70000.0,0.0,3.0
+349,1490,fedex ground,"pittsburgh, pa",US,40.35,-79.9,engineer,Engineering,4.0,3.0,67000.0,0.0,1000.0
+350,1491,icm,"sydney, australia",AU,-27.0,133.0,manager,Management,20.0,2.5,143000.0,0.0,7150.0
+351,1492,tableau,"kirkland, wa",US,47.67,-122.18,software engineer,Software,1.0,1.0,86000.0,2400.0,10.0
+352,1493,emc,ireland,IE,53.0,-8.0,senior engineer,Engineering,3.0,1.0,58000.0,21800.483568075117,6000.0
+353,1495,garmin,"olathe, ks",US,38.88,-94.81,software engineer 2,Software,4.0,3.0,76000.0,4000.0,250.0
+354,1501,amazon,"luxembourg, luxembourg",LU,49.75,6.17,product management intern,Other,0.0,0.5,24000.0,0.0,0.0
+355,1502,fed govt,washington dc,US,38.0,-97.0,it program manager,Management,25.0,25.0,135000.0,0.0,0.0
+356,1503,ngo,sweden,SE,62.0,15.0,lead engineer,Engineering,1.0,1.0,44000.0,0.0,0.0
+357,1507,startup,"greenville, sc",US,34.83,-82.37,front-end engineer,Web,6.0,1.0,80000.0,21800.483568075117,8066.263736263736
+358,1508,amazon,"seattle, wa",US,47.61,-122.33,sde1,Software,4.0,1.0,115000.0,50000.0,8066.263736263736
+359,1514,rr donnelley,"chicago, il",US,41.85,-87.65,manager / productowner,Management,15.0,15.0,10800.0,0.0,10.0
+360,1515,c3iot,"redwood city, ca",US,37.46,-122.24,senior software engineer,Software,10.0,2.0,130000.0,0.0,18.0
+361,1517,freelancer/self-employed,sweden,SE,62.0,15.0,consultant,Other,12.0,4.0,61000.0,0.0,0.0
+362,1539,small startup,"easton, pa",US,40.68,-75.22,co-founder,Management,9.0,3.0,36000.0,0.0,0.0
+363,1545,linkedin,"mountain view, ca",US,37.41,-122.05,senior software engineer,Software,2.0,2.0,150000.0,0.0,15000.0
+364,1553,john hopkins applied physics lab,maryland,US,38.0,-97.0,research intern,Other,1.0,0.0,30.0,0.0,0.0
+365,1555,orange county startup,"orange county, ca",US,38.0,-97.0,front end developer,Web,2.0,1.0,72500.0,0.0,0.0
+366,1557,fruition partners,new york city,US,38.0,-97.0,architect,Other,4.0,2.5,100000.0,0.0,20000.0
+367,1564,loan company,"bc, canada",CA,60.0,-95.0,training and devolpment,Other,0.0,2.0,40000.0,0.0,2000.0
+368,1568,nordstrom,"seattle, wa",US,47.61,-122.33,software engineer 3,Software,10.0,2.0,130000.0,21800.483568075117,8066.263736263736
+369,1573,glassdoor,"mill valley, ca",US,37.89,-122.56,lead engineer,Engineering,8.0,4.0,150000.0,21800.483568075117,15000.0
+370,1578,crittercism,"san francisco, ca",US,37.77,-122.41,senior engineer,Engineering,9.0,3.0,135000.0,0.0,6000.0
+371,1579,the home depot,"austin, tx",US,30.26,-97.74,software engineer,Software,10.0,1.0,125000.0,5000.0,8.0
+372,1580,us army,"baltimore, md",US,39.3,-76.61,sap developer,Software,8.0,4.0,64000.0,0.0,250.0
+373,1584,huron consulting group,"portland, or",US,45.44,-122.52,senior software engineer,Software,11.0,1.0,90000.0,0.0,0.0
+374,1592,hospital,"toronto, on",CA,60.0,-95.0,researcher/programmer,Other,15.0,4.0,65110.0,0.0,0.0
+375,1594,qualcomm,"toronto, on",CA,60.0,-95.0,engineer,Engineering,3.0,2.0,75000.0,10000.0,3000.0
+376,1597,small startup,"seattle, wa",US,47.61,-122.33,software engineer,Software,3.5,1.5,122500.0,0.0,0.0
+377,1600,ebay,"san jose, ca",US,37.38,-121.89,mts1,Other,11.0,2.0,161000.0,10000.0,10.0
+378,1605,hvg,"budapest, hungary",HU,47.0,20.0,software architect,Software,6.0,1.5,6000000.0,0.0,0.0
+379,1606,icahn school of medicine at moutn sinai,new york city,US,38.0,-97.0,graduate student,Other,4.0,4.0,33500.0,0.0,0.0
+380,1619,jet propulsion lab,"pasadena, ca",US,34.14,-118.13,group supervisor,Other,26.0,20.0,185000.0,0.0,5000.0
+381,1624,mexican consulting,mexico,MX,23.0,-102.0,full stack developer,Web,3.0,1.0,17500.0,21800.483568075117,8066.263736263736
+382,1626,state of texas,"austin, tx",US,30.26,-97.74,system analyst iii,Data,3.0,2.0,65000.0,0.0,0.0
+383,1641,state of ohio,"columbus, oh",US,39.98,-82.98,software developer 1,Software,6.0,4.0,56000.0,0.0,0.0
+384,1644,ibm,austin tx,US,38.0,-97.0,software engineer,Software,1.5,1.5,86000.0,5000.0,0.0
+385,1645,digital fractal technologies,"edmonton, ab",CA,60.0,-95.0,software developer,Software,7.0,2.5,59280.0,0.0,0.0
+386,1655,booz allen hamilton,"washington, dc",US,38.0,-97.0,"software engineer, level ii",Software,3.0,1.5,71000.0,0.0,0.0
+387,1657,um health system,"ann arbor, mi",US,42.27,-83.73,data architect / software developer,Data,11.0,5.0,95000.0,2000.0,50.0
+388,1667,united states digital service,washington d.c.,US,38.0,-97.0,digital service expert,Other,8.0,0.5,126000.0,0.0,0.0
+389,1668,us army government contractor,"warren, mi",US,42.49,-83.02,software engineer iv,Software,18.0,2.0,130000.0,3000.0,2500.0
+390,1669,microsoft,"seattle, wa",US,47.61,-122.33,software development engineer,Software,0.0,0.0,106000.0,15000.0,8066.263736263736
+391,1677,aol,germany,DE,51.0,9.0,principal software engineer,Software,12.0,6.0,80000.0,0.0,15.0
+392,1687,humana,"tampa, fl",US,27.95,-82.48,technology business analyst,Data,3.0,7.0,60650.0,0.0,0.0
+393,1692,here,"berlin, germany",DE,51.0,9.0,senior software engineer,Software,5.0,1.0,60000.0,10000.0,6000.0
+394,1694,unidentified,"baltimore, md",US,39.3,-76.61,senior software engineer,Software,11.0,2.0,235000.0,0.0,0.0
+395,1697,~50-person startup,"boston, ma",US,42.35,-71.06,software engineer,Software,3.0,3.0,115000.0,0.0,3.0
+396,1704,fintech,"san jose, ca",US,37.38,-121.89,systems engineer,Engineering,9.0,5.0,137500.0,0.0,10.0
+397,1711,research non-profit,"boulder, co",US,40.02,-105.25,software engineer,Software,20.0,20.0,102000.0,0.0,0.0
+398,1712,american family insurance,"madison, wi",US,43.1,-89.5,data scientist,Data,2.0,2.0,120000.0,12000.0,6500.0
+399,1717,rvm,new york,US,38.0,-97.0,engineer,Engineering,6.0,4.0,75000.0,0.0,2500.0
+400,1720,gov't contractor,virginia-washington area,US,38.0,-97.0,software engineer,Software,5.0,1.0,125000.0,21800.483568075117,5000.0
+401,1722,fidelity,ireland,IE,53.0,-8.0,senior software engineer,Software,3.0,3.0,45000.0,1500.0,5000.0
+402,1730,oracle,"redwood city, ca",US,37.46,-122.24,senior applications engineer,Engineering,6.0,0.5,134000.0,12500.0,0.0
+403,1733,general motors,"chandler, az",US,33.32,-111.87,software developer,Software,1.5,1.5,61000.0,0.0,4.0
+404,1738,the gay nigger assocation of america,"tarzana, ca",US,34.2,-118.54,hnic,Other,15.0,15.0,250000.0,30000.0,90000.0
+405,1739,zillow group,"irvine, ca",US,33.74,-117.76,software developer,Software,4.0,1.0,105000.0,2000.0,8066.263736263736
+406,1741,usa company,spain,ES,40.0,-4.0,software engineer,Software,7.0,2.0,130000.0,0.0,0.0
+407,1746,trendco,california,US,38.0,-97.0,swe,Software,3.0,3.0,150.0,100.0,20.0
+408,1751,autodesk canada,"toronto, canada",CA,60.0,-95.0,software developer,Software,8.0,4.0,100000.0,5000.0,11000.0
+409,1768,norwegian tax authority,norway,NO,62.0,10.0,senior systems engineer,Engineering,17.0,4.0,71000.0,0.0,0.0
+410,1777,microsoft,"redmond, washington",US,47.68,-122.12,software engineer,Software,1.5,1.5,114500.0,5000.0,12000.0
+411,1780,state street,"princeton, nj",US,40.35,-74.65,valuations officer / software dev,Software,11.0,1.0,94000.0,0.0,1.0
+412,1786,unity technologies,"copenhagen, denmark",DK,56.0,10.0,software developer,Software,9.0,1.0,74000.0,0.0,0.0
+413,1788,carfax,columbia mo,US,38.0,-97.0,software developer,Software,3.0,1.0,70000.0,0.0,7000.0
+414,1791,tune,"seattle, wa",US,47.61,-122.33,software engineer 3,Software,6.0,2.0,120000.0,0.0,1000.0
+415,1805,public,spain,ES,40.0,-4.0,programmer,Other,3.0,1.0,23000.0,21800.483568075117,8066.263736263736
+416,1814,interana,"redwood city, ca",US,37.46,-122.24,site reliability engineer,Engineering,5.0,0.5,140000.0,0.0,8066.263736263736
+417,1819,mercury group of companies,"melbourne, australia",AU,-27.0,133.0,senior .net developer,Software,16.0,2.0,105000.0,21800.483568075117,8066.263736263736
+418,1830,sfr,"lyon, france",FR,46.0,2.0,network engineer,Engineering,3.0,2.0,40000.0,21800.483568075117,5500.0
+419,1831,bw,"vancouver, bc",CA,60.0,-95.0,web developer,Web,3.0,1.0,60000.0,0.0,300.0
+420,1832,liberty mutual,new hampshire,US,38.0,-97.0,developer intern,Software,3.0,1.5,48000.0,0.0,0.0
+421,1834,nokia,"ottawa, canada",CA,60.0,-95.0,software designer,Software,4.0,1.0,56000.0,0.0,0.0
+422,1837,google,"mountain view, ca",US,37.41,-122.05,software engineer,Software,6.0,1.0,130000.0,0.0,20000.0
+423,1841,synopsys,"mountain view, california",US,37.41,-122.05,software engineer,Software,1.0,1.0,97000.0,21800.483568075117,10000.0
+424,1853,ibm,canada,CA,60.0,-95.0,software engineer,Software,4.0,4.0,75000.0,21800.483568075117,4000.0
+425,1854,ibm,"austin, tx",US,30.26,-97.74,software engineer,Software,2.0,2.0,82000.0,3000.0,2000.0
+426,1859,disney interactive,"glendale, ca",US,34.17,-118.29,software engineer,Software,4.0,3.0,88000.0,0.0,25000.0
+427,1862,ford,michigan,US,38.0,-97.0,mobile software engineer,Software,4.0,3.0,82500.0,6000.0,6500.0
+428,1863,well funded non-profit,"washington, dc",US,38.0,-97.0,senior software engineer,Software,11.0,4.0,146000.0,21800.483568075117,2600.0
+429,1864,microsoft,"redmond, wa",US,47.68,-122.12,program manager,Management,20.0,10.0,185000.0,185000.0,40000.0
+430,1865,liaison technologies,"atlanta, ga",US,33.64,-84.39,software engineer,Software,3.0,1.0,90000.0,21800.483568075117,8066.263736263736
+431,1867,etsy,new york city,US,38.0,-97.0,senior software engineer,Software,4.5,3.5,135.0,0.0,0.0
+432,1873,small consulting firm,"houston, tx",US,29.76,-95.38,web developer,Web,3.0,1.0,56000.0,0.0,0.0
+433,1876,undisclosed startup (75 people),"austin, tx",US,30.26,-97.74,senior full stack engineer,Engineering,20.0,0.0,130000.0,0.0,0.0
+434,1877,ericsson,"san jose, ca",US,37.38,-121.89,system engineer - iv,Engineering,9.0,7.0,141000.0,0.0,14000.0
+435,1879,ibm,germany,DE,51.0,9.0,it architect mobile solutions,Other,2.0,2.0,51000.0,0.0,2000.0
+436,1884,varagesale,"toronto, on",CA,60.0,-95.0,senior software developer,Software,8.0,0.25,120000.0,0.0,0.0
+437,1887,google,new york,US,38.0,-97.0,web developer,Web,3.0,7.0,103000.0,0.0,15000.0
+438,1888,general dynamics mission systems,"pittsburgh, pa",US,40.35,-79.9,software engineer,Software,20.0,7.0,140000.0,0.0,0.0
+439,1889,amazon,"seattle, washington",US,47.61,-122.33,software developer engineer ii,Software,15.0,2.0,130000.0,40000.0,0.0
+440,1892,mid sized silicon valley startup,"sunnyvale, ca",US,37.38,-122.01,software engineer,Software,4.0,1.0,140000.0,10000.0,28000.0
+441,1895,mathworks,"boston, ma",US,42.35,-71.06,software engineer,Software,3.0,3.0,90000.0,5000.0,10000.0
+442,1896,cisco,cambridge ma,US,38.0,-97.0,software engineer ii,Software,0.0,1.0,85000.0,0.0,0.0
+443,1900,a security company,"atlanta, ga",US,33.64,-84.39,devops engineer,Engineering,10.0,3.0,78000.0,0.0,0.0
+444,1902,a video game company,poland,PL,52.0,20.0,front-end web developer,Web,2.0,2.0,17000.0,21800.483568075117,8066.263736263736
+445,1905,a research institute,"frankfurt am main, germany",DE,51.0,9.0,postdoc,Other,8.0,4.0,50000.0,0.0,0.0
+446,1906,iheartradio,"new york, ny",US,40.71,-73.99,software engineer,Software,1.5,1.0,100000.0,0.0,17000.0
+447,1911,jamdeo canada,"oakville, on., canada",CA,60.0,-95.0,android application developer,Software,4.0,2.0,88000.0,0.0,8800.0
+448,1913,dev shop using ms stack,"limerick, ireland",IE,53.0,-8.0,scrum master,Other,5.0,1.5,67500.0,0.0,300.0
+449,1919,b2b saas co.,"salt lake city, ut",US,40.75,-111.9,software developer,Software,4.0,3.0,78000.0,0.0,0.0
+450,1922,anon,"los angeles, ca",US,33.99,-118.39,associate applications engineer,Engineering,1.0,0.0,110000.0,21800.483568075117,8066.263736263736
+451,1925,xyz,"redmond, wa",US,47.68,-122.12,ceo,Management,15.0,1.0,240000.0,0.0,0.0
+452,1926,jp morgan,new york,US,38.0,-97.0,application developer,Software,3.0,1.0,110000.0,10000.0,20000.0
+453,1929,epic systems,"verona, wi",US,42.98,-89.53,software developer,Software,0.0,1.0,100000.0,21800.483568075117,8066.263736263736
+454,1938,self-employeed,new york,US,38.0,-97.0,principal consultant,Other,15.0,8.0,290000.0,0.0,0.0
+455,1939,mlb advanced media,new york,US,38.0,-97.0,front end developer,Web,3.0,0.0,105000.0,0.0,5.0
+456,1941,startup in la serving fortune 500,"los angeles, ca",US,33.99,-118.39,ux designer / front-end developer,Web,5.0,1.0,90000.0,0.0,0.0
+457,1943,akamai,"cambridge, ma",US,42.35,-71.06,software engineer,Software,2.0,2.0,115000.0,30000.0,11500.0
+458,1946,amazon,"irvine, ca",US,33.74,-117.76,software engineer,Software,8.0,4.0,160000.0,10000.0,8066.263736263736
+459,1949,startup,new york,US,38.0,-97.0,software engineer,Software,3.0,2.0,110000.0,0.0,0.0
+460,1950,apple,cupertino ca,US,38.0,-97.0,firmware engineer,Engineering,3.0,1.0,105000.0,25000.0,30000.0
+461,1952,tripadvisor,"needham, massachusetts",US,42.28,-71.24,software engineer,Software,0.0,0.0,105000.0,10000.0,8066.263736263736
+462,1958,health benefits startup,"boston, ma",US,42.35,-71.06,software engineer,Software,3.0,1.0,85000.0,21800.483568075117,8066.263736263736
+463,1962,miller instruments,burnaby bc,CA,60.0,-95.0,calibration technician,Other,3.0,1.0,36000.0,21800.483568075117,8066.263736263736
+464,1972,ibm,"columbus, oh",US,39.98,-82.98,advisory software engineer,Software,32.0,11.0,111000.0,0.0,1200.0
+465,1974,elastic,puerto rico,PR,18.25,-66.5,software engineer,Software,6.0,1.0,100000.0,5000.0,8066.263736263736
+466,1976,yahoo,"sunnyvale, california",US,37.38,-122.01,software systems development engineer,Software,4.0,2.0,126000.0,12000.0,8000.0
+467,1983,ibm,"dallas, tx",US,32.79,-96.76,ruby on rails developer,Software,10.0,1.0,130000.0,0.0,5.0
+468,1988,okta,"san francisco, ca",US,37.77,-122.41,*operational role*,Other,10.0,3.0,125000.0,0.0,0.0
+469,1990,hudl,nebraska,US,38.0,-97.0,software engineer,Software,3.0,2.0,90000.0,0.0,4500.0
+470,1991,dun & bradstreet,"austin, texas",US,30.26,-97.74,customer support technician,Other,5.0,5.0,47000.0,21800.483568075117,8066.263736263736
+471,1993,mit bcs,"cambridge, ma",US,42.35,-71.06,graduate student,Other,14.0,5.0,30000.0,0.0,0.0
+472,1999,higher learning technology,iowa,US,38.0,-97.0,software engineer,Software,15.0,2.0,130000.0,0.0,0.0
+473,2001,google,"mountain view, ca",US,37.41,-122.05,swe,Software,2.0,2.0,160000.0,0.0,24000.0
+474,2005,jaguar land rover,"portland, or",US,45.44,-122.52,software engineer,Software,8.0,2.0,95000.0,21800.483568075117,13000.0
+475,2020,facebook,"new york,  ny",US,40.71,-73.99,executive assistant,Management,10.0,5.0,40.0,21800.483568075117,10000.0
+476,2027,too small to say,australia,AU,-27.0,133.0,software engineer,Software,6.0,0.0,99190.0,21800.483568075117,8066.263736263736
+477,2030,freelance,new york city,US,38.0,-97.0,designer/developer,Software,10.0,10.0,100000.0,0.0,50000.0
+478,2035,accenture,philippines,PH,13.0,122.0,associate manager,Management,4.0,2.0,34500.0,21800.483568075117,8066.263736263736
+479,2040,insight,phoenix az,US,38.0,-97.0,security engineer,Engineering,10.0,8.0,99480.0,0.0,1.0
+480,2042,ui programmer,argentina,AR,-34.0,-64.0,php developer,Software,7.0,0.5,900.0,21800.483568075117,8066.263736263736
+481,2043,enernoc,vancouver bc,CA,60.0,-95.0,software engineer,Software,1.0,1.0,61000.0,0.0,2000.0
+482,2056,cerner,kansas city,US,38.0,-97.0,java contractor,Other,13.0,1.0,170000.0,0.0,0.0
+483,2061,multinational in fmcg,"madrid, spain",ES,40.0,-4.0,security manager,Management,15.0,1.0,70000.0,7000.0,8066.263736263736
+484,2063,anonymous,new york city,US,38.0,-97.0,software engineer,Software,4.0,1.0,120000.0,5000.0,8066.263736263736
+485,2064,microsoft,"redmond, wa",US,47.68,-122.12,pm ii,Other,2.0,2.0,124000.0,0.0,10000.0
+486,2066,choice hotels,"scottsdale, az",US,33.53,-111.89,software engineer 3,Software,10.0,3.0,110000.0,2000.0,0.0
+487,2067,power utility,new zealand,NZ,-41.0,174.0,systems engineer,Engineering,6.0,6.0,100000.0,0.0,0.0
+488,2069,saas company,"st petersburg, fl",US,27.75,-82.64,software developer,Software,3.0,1.0,44000.0,0.0,0.0
+489,2072,intuit,"mountain view, ca",US,37.41,-122.05,software engineer,Software,1.0,1.0,102.0,10.0,12000.0
+490,2077,chevron,"houston, tx",US,29.76,-95.38,geoscientific software developer,Software,11.0,4.0,140000.0,12000.0,15000.0
+491,2078,fast enterprises,colorado,US,38.0,-97.0,implementation consultant,Other,2.0,0.0,80000.0,6000.0,5000.0
+492,2082,small company,"atlanta, ga",US,33.64,-84.39,software engineer,Software,3.0,3.0,80000.0,3000.0,5000.0
+493,2083,finra,"washington, dc",US,38.0,-97.0,data scientist,Data,5.0,0.0,130000.0,8000.0,10.0
+494,2084,psg tecnologia ltda,"campo grande, mato grosso do sul, brazil",BR,-10.0,-55.0,analista de sistemas,Other,3.0,3.0,36276.0,0.0,3023.0
+495,2086,fuze,cambridge ma,US,38.0,-97.0,support level 2,Other,3.0,1.0,43000.0,0.0,0.0
+496,2087,google,"mountain view, ca",US,37.41,-122.05,senior software engineer,Software,11.0,11.0,190000.0,7000.0,30000.0
+497,2091,safeguard properties,"cleveland, oh",US,41.47,-81.67,linux engineer,Engineering,10.0,1.0,87000.0,21800.483568075117,8066.263736263736
+498,2096,tripadvisor,singapore,SG,1.37,103.8,senior data scientist,Data,3.0,1.0,85000.0,0.0,15.0
+499,2101,fei systems,"columbia, md",US,38.74,-76.85,developer,Software,7.0,3.0,120000.0,0.0,3000.0
+500,2108,mindera,"porto, portugal",PT,39.5,-8.0,software engineer,Software,4.0,1.0,23000.0,21800.483568075117,7000.0
+501,2110,businessolver,"des moines, ia",US,41.57,-93.61,sr. developer,Software,20.0,2.0,115000.0,0.0,5000.0
+502,2116,national instruments,"austin, tx",US,30.26,-97.74,software engineer,Software,3.0,3.0,70000.0,0.0,0.0
+503,2122,queensland government,"brisbane, australia",AU,-27.0,133.0,senior technical consultant,Other,9.0,5.0,84500.0,21800.483568075117,8066.263736263736
+504,2123,indiegogo,"san francisco, ca",US,37.77,-122.41,software engineer,Software,2.0,2.0,120000.0,5000.0,8066.263736263736
+505,2125,pra health science,"lenexa, ks",US,38.88,-94.81,mgr of it 1,Other,5.0,1.0,115000.0,0.0,11500.0
+506,2135,mozilla,"toronto, canada",CA,60.0,-95.0,staff software engineer,Software,10.0,5.0,125000.0,10000.0,55000.0
+507,2139,blackrock,new york,US,38.0,-97.0,vice president,Management,7.0,7.0,125000.0,21800.483568075117,36000.0
+508,2142,uber,"san francisco, ca",US,37.77,-122.41,software engineer i,Software,6.0,2.0,130000.0,0.0,50000.0
+509,2144,google,"pittsburgh, pa",US,40.35,-79.9,software engineer ii,Software,2.0,1.0,97000.0,10000.0,15000.0
+510,2146,riot games,"los angeles, ca",US,33.99,-118.39,software engineer,Software,4.0,2.0,85000.0,0.0,0.0
+511,2148,a salesforce consulting firm,new york city,US,38.0,-97.0,technical architect,Other,2.5,2.5,115000.0,0.0,11500.0
+512,2157,charity,australia,AU,-27.0,133.0,development manager,Management,17.0,3.0,98000.0,0.0,0.0
+513,2159,facebook,"menlo park, ca",US,37.45,-122.17,software engineer,Software,6.0,6.0,205000.0,5000.0,50000.0
+514,2162,intercontinental exchange,"atlanta, ga",US,33.64,-84.39,senior software developer,Software,12.0,1.0,120000.0,30000.0,24000.0
+515,2165,bloomberg lp,"new york, new york",US,38.0,-97.0,senior software engineer,Software,10.0,2.0,170.0,0.0,30.0
+516,2167,23andme,"salt lake city, ut",US,40.75,-111.9,senior bioinformatician,Other,5.0,1.0,125000.0,5000.0,12500.0
+517,2177,local startup,"ann arbor, mi",US,42.27,-83.73,project manager,Management,3.0,1.0,90000.0,0.0,10000.0
+518,2184,simple,new york,US,38.0,-97.0,security engineer,Engineering,5.0,1.0,130000.0,0.0,50.0
+519,2188,startup-ish,"san jose, ca",US,37.38,-121.89,member of technical staff,Other,2.0,2.0,135000.0,15000.0,8066.263736263736
+520,2189,unicorn,new york,US,38.0,-97.0,staff engineer,Engineering,10.0,4.0,210000.0,0.0,0.0
+521,2190,consulting startup ~20p,"san francisco, ca",US,37.77,-122.41,software engineer,Software,5.0,0.5,90000.0,3000.0,0.0
+522,2191,honestbee,singapore,SG,1.37,103.8,senior software engineer,Software,5.5,1.0,66000.0,0.0,0.0
+523,2194,apple,palo alto california,US,38.0,-97.0,ceo,Management,30.0,18.0,10280000.0,21800.483568075117,8066.263736263736
+524,2195,google,boston ma,US,38.0,-97.0,software engineer iii,Software,7.0,4.0,130000.0,0.0,30000.0
+525,2199,ibm,kansas,US,38.0,-97.0,software engineer,Software,3.0,3.0,84000.0,0.0,0.0
+526,2203,id.me,"mclean, va",US,38.86,-77.05,software engineer,Software,2.0,1.0,70000.0,0.0,0.0
+527,2204,statuspage.io,"denver, co",US,39.82,-105.1,developer,Software,5.0,1.0,205000.0,15000.0,8066.263736263736
+528,2205,conae,argentina,AR,-34.0,-64.0,saocom ground segment & operations manager,Management,11.0,3.0,32900.0,0.0,0.0
+529,2206,bc hydro,"vancouver, bc",CA,60.0,-95.0,engineer-in-training,Engineering,3.0,1.5,45.96,0.0,0.0
+530,2211,autodesk,"shanghai, china",CN,35.0,105.0,senior software engineer,Software,2.0,1.0,34000.0,0.0,3000.0
+531,2213,filament,"madison, wi",US,43.1,-89.5,game engineer,Engineering,1.0,1.0,45000.0,0.0,0.0
+532,2215,microsoft,"redmond, washington",US,47.68,-122.12,software developer i,Software,0.0,1.0,105000.0,0.0,20.0
+533,2222,small fintech startup,"seattle, wa",US,47.61,-122.33,technical lead,Software,12.0,2.0,144000.0,0.0,0.0
+534,2223,news & media,washington dc,US,38.0,-97.0,sr developer,Software,10.0,1.0,125000.0,2000.0,8066.263736263736
+535,2226,fundingcircle,"san francisco, ca",US,37.77,-122.41,software engineer,Software,1.0,0.5,105000.0,0.0,8066.263736263736
+536,2232,montreal startup (10 employees 5+ years),"montreal, qc, canada",CA,60.0,-95.0,vp architecture,Management,10.0,5.0,75000.0,0.0,0.0
+537,2234,mitre,washington dc,US,38.0,-97.0,systems engineer 4,Engineering,8.0,2.0,123000.0,21800.483568075117,8066.263736263736
+538,2242,epic systems,"madison, wi",US,43.1,-89.5,software developer,Software,0.0,2.3,114.0,10000.0,10000.0
+539,2243,knewton,"new york, ny",US,40.71,-73.99,software engineering manager,Management,9.0,3.0,160000.0,0.0,0.0
+540,2244,a small web application shop,new zealand,NZ,-41.0,174.0,full stack developer,Web,5.0,1.0,80000.0,0.0,0.0
+541,2246,six flags entertainment,"grand prairie, tx",US,32.69,-97.01,web designer,Web,6.0,1.0,50000.0,21800.483568075117,8066.263736263736
+542,2247,factset,"norwalk, ct",US,41.09,-73.42,software engineer,Software,0.0,1.0,90000.0,5000.0,0.0
+543,2253,enbridge,"edmonton, alberta, canada",CA,60.0,-95.0,contract software developer,Software,16.0,1.0,69.0,0.0,0.0
+544,2255,intraix,singapore,SG,1.37,103.8,software architect,Software,1.0,1.0,3700.0,0.0,0.0
+545,2259,shopify,canada,CA,60.0,-95.0,software developer,Software,0.0,0.0,75000.0,0.0,0.0
+546,2261,ibm,new york,US,38.0,-97.0,senior consultant,Other,3.0,3.0,92000.0,7000.0,500.0
+547,2262,tv broadcast station,"chicago, il",US,41.85,-87.65,web developer,Web,6.0,1.5,81000.0,21800.483568075117,8066.263736263736
+548,2268,ibm,ohio,US,38.0,-97.0,advisory engineer,Engineering,15.0,1.0,120000.0,5000.0,1200.0
+549,2270,lancaster general hospital,"lancaster, pa",US,40.01,-76.16,it helpdesk,Other,2.0,1.0,31000.0,0.0,0.0
+550,2271,digital blend,"seattle, wa",US,47.61,-122.33,senior developer,Software,10.0,5.0,50000.0,0.0,2000.0
+551,2274,federal government,washington dc,US,38.0,-97.0,computer scientist,Software,6.0,5.0,83000.0,0.0,0.0
+552,2277,guidewire software,"foster city, ca",US,37.55,-122.26,devops engineer,Engineering,10.0,0.0,160000.0,5000.0,10.0
+553,2278,epri,"knoxviile, tn",US,38.0,-97.0,senior project manager,Management,12.0,10.0,115000.0,0.0,19000.0
+554,2280,ecommerce,oregon,US,38.0,-97.0,software engineer,Software,12.0,3.5,150000.0,0.0,0.0
+555,2281,new york times,"new york, ny",US,40.71,-73.99,web developer,Web,16.0,1.0,10600.0,5000.0,15900.0
+556,2283,integra,"anacortes, wa",US,48.46,-122.6,support engineer,Engineering,6.0,3.0,45000.0,0.0,500.0
+557,2285,johns hopkins  applied physics laboratory,"laurel, md, usa",US,39.09,-76.85,software developer,Software,1.6,1.5,74500.0,0.0,0.0
+558,2296,seven west media,australia,AU,-27.0,133.0,data analyst,Data,1.0,1.0,62000.0,0.0,6000.0
+559,2300,captricity,"oakland, ca",US,37.72,-122.2,full stack developer,Web,4.0,3.0,120000.0,0.0,0.0
+560,2303,unitedhealth group,"minneapolis, minnesota",US,38.0,-97.0,junior java developer,Software,1.0,1.0,58000.0,0.0,0.0
+561,2307,new relic,"portland, or",US,45.44,-122.52,senior software engineer,Software,10.0,2.0,120000.0,0.0,20000.0
+562,2308,oracle,"sydney, australia",AU,-27.0,133.0,senior system administrator,Management,7.0,1.0,72485.0,0.0,0.0
+563,2310,csra,"falls church, va, usa",US,38.86,-77.05,business analyst intern,Data,2.0,1.0,44000.0,0.0,0.0
+564,2311,csra,"falls church, va, usa",US,38.86,-77.05,business analyst intern,Data,2.0,1.0,44000.0,0.0,0.0
+565,2318,crosschx,"columbus, ohio",US,39.98,-82.98,software engineer,Software,4.0,1.0,75000.0,0.0,0.0
+566,2331,faithlife,"bellingham, wa",US,48.73,-122.48,software engineer,Software,2.0,2.0,75000.0,0.0,0.0
+567,2337,cisco,"los angeles, ca",US,33.99,-118.39,it engineer,Engineering,15.0,2.0,125000.0,0.0,15000.0
+568,2342,oregon state,"corvallis, or",US,44.63,-123.27,linux systems administrator,Management,8.0,4.0,72000.0,5000.0,0.0
+569,2345,qualcomm10,"boulder, colorado",US,40.02,-105.25,staff engineer,Engineering,10.0,5.0,120000.0,8000.0,5000.0
+570,2346,microsoft,india,IN,20.0,77.0,software engineer,Software,1.5,0.8,22310.0,2230.0,4460.0
+571,2347,cerner,"kansas city, mo",US,39.1,-94.62,system engineer,Engineering,2.0,2.0,61000.0,0.0,3.0
+572,2348,apple,"cupertino, ca",US,37.3,-122.09,software engineer,Software,0.0,0.0,112000.0,34000.0,8066.263736263736
+573,2351,amazon development center,"hyderabad, india",IN,20.0,77.0,software development engineer,Software,1.0,1.0,1200000.0,500000.0,0.0
+574,2353,microsoft,"redmond, wa",US,47.68,-122.12,program manager 2,Management,3.0,3.0,120000.0,10000.0,16000.0
+575,2358,deloitte,washington dc,US,38.0,-97.0,federal analytics consultant,Other,0.0,0.0,70000.0,10000.0,5000.0
+576,2361,self,southern california,US,38.0,-97.0,consultant,Other,20.0,7.0,80000.0,21800.483568075117,8066.263736263736
+577,2362,vndirect,"hanoi, vietnam",VN,16.17,107.83,software engineer,Software,4.0,1.0,6400.0,21800.483568075117,8066.263736263736
+578,2363,direxion,new york,US,38.0,-97.0,trader,Other,2.0,2.0,65000.0,0.0,25000.0
+579,2365,accenture,"bloomington, il",US,40.47,-88.97,senior business analyst,Data,6.0,6.0,70000.0,21800.483568075117,2000.0
+580,2367,startup,new york,US,38.0,-97.0,"founder, cto",Management,5.0,1.0,40000.0,21800.483568075117,8066.263736263736
+581,2375,credit processing industry,"detroit, mi",US,42.38,-83.1,systems engineer,Engineering,14.0,1.0,120000.0,21800.483568075117,8066.263736263736
+582,2382,intel,"hillsboro, oregon",US,45.52,-122.85,software engineer,Software,4.0,4.0,103000.0,0.0,10000.0
+583,2395,optum,minneapolis mn,US,38.0,-97.0,software developer,Software,12.0,1.0,101000.0,0.0,8500.0
+584,2397,oracle,"chicago, il",US,41.85,-87.65,senior sales consultant,Other,10.0,5.0,106000.0,0.0,50000.0
+585,2398,kapow,"chicago, il",US,41.85,-87.65,software engineer,Software,4.0,1.5,100000.0,0.0,2500.0
+586,2405,mid-sized startup,"silicon valley, ca",US,38.0,-97.0,software engineer,Software,0.0,0.0,109200.0,10000.0,0.0
+587,2406,bae systems,"boston, massachusetts",US,42.35,-71.06,"burlington, ma",Other,10.0,1.0,90.0,21800.483568075117,8066.263736263736
+588,2430,microsoft,"redmond, wa",US,47.68,-122.12,software engineer,Software,1.0,1.0,112500.0,15000.0,8066.263736263736
+589,2431,facebook,new york,US,38.0,-97.0,software engineer,Software,3.0,1.0,220000.0,100000.0,100000.0
+590,2436,microsoft,"redmond, wa, usa",US,47.68,-122.12,software engineer ii,Software,3.0,1.0,122000.0,50000.0,15000.0
+591,2437,microsoft,"redmond, wa",US,47.68,-122.12,software engineer,Software,1.5,1.5,110000.0,5000.0,15000.0
+592,2442,google,new york,US,38.0,-97.0,software engineer,Software,15.0,0.5,132000.0,0.0,20000.0
+593,2449,thoughtworks,"pune, india",IN,20.0,77.0,application developer,Software,9.0,1.0,30500.0,0.0,0.0
+594,2461,-----,new york,US,38.0,-97.0,software developer,Software,6.0,2.5,90000.0,0.0,5000.0
+595,2462,marketing agency,"austin, tx",US,30.26,-97.74,product manager / project manager,Management,12.0,1.0,115000.0,0.0,17250.0
+596,2468,yumbles,cyprus,CY,35.0,33.0,customer service,Other,5.0,0.0,12000.0,0.0,0.0
+597,2470,ge,70170,US,30.06,-89.93,software engineer,Software,2.0,2.0,64000.0,0.0,0.0
+598,2472,fintech,"san francisco, ca",US,37.77,-122.41,devops,Operations,6.0,1.0,140000.0,10000.0,8066.263736263736
+599,2475,yumbles,cyprus,CY,35.0,33.0,marketing manager,Management,3.0,0.0,18000.0,0.0,0.0
+600,2478,pariveda solutions,bellevue wa,US,38.0,-97.0,consultant 2,Other,1.5,1.5,77000.0,5000.0,0.0
+601,2483,carnegie mellon,"pittsburgh, pa",US,40.35,-79.9,research programmer,Other,3.0,3.0,65000.0,0.0,0.0
+602,2491,browserstack,"mumbai, india",IN,20.0,77.0,software developer,Software,1.0,1.0,1500000.0,21800.483568075117,8066.263736263736
+603,2494,netflix,"los gatos, ca",US,37.22,-121.99,senior software engineer,Software,10.0,2.0,330000.0,21800.483568075117,8066.263736263736
+604,2497,google,"mountain view, ca",US,37.41,-122.05,software engineer,Software,6.0,1.0,155000.0,50000.0,24000.0
+605,2498,major bank,washington d.c.,US,38.0,-97.0,senior software engineer,Software,5.0,1.0,135000.0,10000.0,13000.0
+606,2501,facebook,new york city,US,38.0,-97.0,software engineer,Software,2.0,2.0,140000.0,75000.0,25000.0
+607,2512,davanti consulting,"auckland, new zealand",NZ,-41.0,174.0,senior consultant (salesforce.com developer),Software,4.0,1.0,50000.0,21800.483568075117,5000.0
+608,2516,shyp,"san francisco, ca",US,37.77,-122.41,engineer,Engineering,3.0,1.0,145000.0,5000.0,8066.263736263736
+609,2527,qualcomm,"bangalore, india",IN,20.0,77.0,associate engineer,Engineering,1.5,1.5,14000.0,2250.0,8066.263736263736
+610,2528,time warner cable,dallas texas usa,US,38.0,-97.0,network engineer 2,Engineering,4.0,2.0,66000.0,0.0,4100.0
+611,2533,acuta,"russia, spb",RU,60.0,100.0,security testing engineer,Engineering,2.0,1.0,7950.0,21800.483568075117,8066.263736263736
+612,2534,driveu,"bangalore, india",IN,20.0,77.0,platform engineer,Engineering,2.0,0.0,13530.0,0.0,8066.263736263736
+613,2536,weishen industrial pvt ltd,singapore,SG,1.37,103.8,operation execurive,Management,5.0,3.5,32000.0,0.0,0.0
+614,2537,payments product startup,bangalore india,IN,20.0,77.0,software engineer,Software,3.0,0.5,131774.2993046776,21800.483568075117,8066.263736263736
+615,2538,bloomreach,"bangalore, india",IN,20.0,77.0,software engineer,Software,6.0,1.0,40000.0,21800.483568075117,5000.0
+616,2555,manulife,singapore,SG,1.37,103.8,data scientist,Data,7.0,0.0,123000.0,2200.0,20000.0
+617,2557,box,"redwood city, ca",US,37.46,-122.24,staff software engineer,Software,11.0,2.0,210000.0,100000.0,0.0
+618,2565,thoughtworks,"pune, india",IN,20.0,77.0,application developer,Software,3.5,3.5,10000.0,0.0,0.0
+619,2568,economic consulting,california,US,38.0,-97.0,economist,Other,1.0,1.0,200000.0,50000.0,25000.0
+620,2585,sncf,france,FR,46.0,2.0,embedded systems developer,Software,6.0,1.0,25000.0,21800.483568075117,8066.263736263736
+621,2588,cal fire,"sacramento, ca",US,38.58,-121.49,systems software specliast i,Software,11.0,0.0,82000.0,0.0,0.0
+622,2590,gameforge,germany,DE,51.0,9.0,lead developer,Software,15.0,1.0,72000.0,0.0,0.0
+623,2604,lawrence livermore national laboratory,"livermore, california",US,37.68,-121.75,computer scientist,Software,3.75,3.75,128500.0,5000.0,0.0
+624,2609,amazon,"seattle, wa",US,47.61,-122.33,sdet,Software,1.5,1.5,92000.0,21800.483568075117,8066.263736263736
+625,2613,hired,"san francisco, ca",US,37.77,-122.41,product engineer,Engineering,3.0,0.0,135000.0,0.0,0.0
+626,2614,kalibrr,"manila, philippines",PH,13.0,122.0,product designer,Other,4.0,1.0,10000.0,0.0,1000.0
+627,2616,ge digital,"san ramon, ca",US,37.76,-121.93,software business operations analyst,Data,3.0,1.0,95000.0,10000.0,8066.263736263736
+628,2619,boeing,"seattle, wa",US,47.61,-122.33,devops - it rotation program,Other,2.0,2.0,72000.0,5000.0,4000.0
+629,2620,government,"athens, greece",GR,39.0,22.0,forensic examiner,Other,6.0,4.0,22176.0,0.0,0.0
+630,2623,techlogix,"karachi, pakistan",PK,30.0,70.0,software engineer,Software,1.0,1.0,600000.0,21800.483568075117,8066.263736263736
+631,2631,sioux embedded systems,"eindhoven, the netherlands",NL,52.5,5.75,senior software engineer,Software,3.0,3.0,41000.0,0.0,0.0
+632,2636,juniper networks,"sunnyvale, ca",US,37.38,-122.01,software engineer,Software,6.0,5.0,120000.0,10000.0,17000.0
+633,2637,ibm research africa,kenya,KE,1.0,38.0,software application developer,Software,2.0,1.5,14000.0,0.0,0.0
+634,2642,fpt software,"hanoi, vietnam",VN,16.17,107.83,software developer,Software,1.0,1.0,3400.0,21800.483568075117,8066.263736263736
+635,2644,grab,singapore,SG,1.37,103.8,product manager,Management,3.0,1.0,90000.0,2000.0,15000.0
+636,2661,amazon,"seattle, wa",US,47.61,-122.33,software development engineer (sde i),Software,1.0,1.0,100000.0,25000.0,8066.263736263736
+637,2666,self employed,netherlands,NL,52.5,5.75,programmer,Other,8.0,3.0,60000.0,0.0,0.0
+638,2671,workday,"pleasanton, ca",US,37.65,-121.85,associate application developer,Software,0.0,0.0,90000.0,10000.0,8066.263736263736
+639,2672,private bank,"geneva, switzerland",CH,47.0,8.0,it auditor,Other,9.0,8.0,130000.0,0.0,10000.0
+640,2673,small b2b,"berlin, germany",DE,51.0,9.0,software developer,Software,4.0,1.0,73000.0,11000.0,8066.263736263736
+641,2676,series a funded startup,"san francisco, ca",US,37.77,-122.41,vp of product,Management,10.0,1.0,145000.0,21800.483568075117,8066.263736263736
+642,2679,a mbanking company,"dhaka, bangladesh",BD,24.0,90.0,sr. software engineer,Software,5.0,0.3,24000.0,21800.483568075117,2000.0
+643,2686,capgemini,spain,ES,40.0,-4.0,senior consultant,Other,8.0,2.0,24000.0,0.0,0.0
+644,2692,99designs,"melbourne, australia",AU,-27.0,133.0,developer,Software,5.0,3.0,75000.0,1000.0,500.0
+645,2697,large tech coy,singapore,SG,1.37,103.8,senior software engineer,Software,6.0,1.0,103000.0,0.0,0.0
+646,2701,small b2b software consultancy,"chisinau, moldova",MD,47.0,29.0,senior software engineer,Software,8.0,5.0,25000.0,0.0,0.0
+647,2708,:),hong kong,HK,22.27,114.19,junior software engineer,Software,1.0,1.0,0.0,0.0,0.0
+648,2716,fast fashion retailer,"stockholm, sweden",SE,62.0,15.0,application expert,Other,1.5,1.5,46500.0,0.0,0.0
+649,2717,ml,vietnam,VN,16.17,107.83,software developer,Software,4.0,4.0,20000.0,0.0,0.0
+650,2720,intuit,"mountain view, ca",US,37.41,-122.05,software engineer i,Software,1.0,1.0,100000.0,5000.0,10000.0
+651,2724,small tech company,michigan,US,38.0,-97.0,devops,Operations,1.0,1.0,55000.0,0.0,8066.263736263736
+652,2728,technical  of brunswick,"germany, brunswick",DE,51.0,9.0,apprentice as software developer,Software,6.0,1.0,10000.0,21800.483568075117,8066.263736263736
+653,2735,intel,"portland, or",US,45.44,-122.52,validation engineer,Engineering,4.0,3.0,80000.0,5000.0,7000.0
+654,2742,kt,"chicago, il",US,41.85,-87.65,software developer,Software,5.0,2.0,80000.0,0.0,0.0
+655,2745,freelance,morocco,MA,32.0,-5.0,software enginere,Software,6.0,1.0,60000.0,0.0,0.0
+656,2747,navaru,"constanta, romania",OM,21.0,57.0,frontend developer,Web,8.0,5.0,2400.0,21800.483568075117,8066.263736263736
+657,2751,non-start-up (~100 employees),the netherlands,NL,52.5,5.75,r&d sw engineer,Engineering,18.0,1.0,60000.0,21800.483568075117,4500.0
+658,2764,cluster reply srl,italy,IT,42.83,12.83,senior consultant,Other,5.0,4.0,34000.0,0.0,4000.0
+659,2766,small italian consultancy firm (50+),"turin, italy",IT,42.83,12.83,senior software developer,Software,8.0,2.0,26000.0,21800.483568075117,2000.0
+660,2767,facebook,"menlo park, ca",US,37.45,-122.17,software engineering intern,Software,0.0,0.25,8400.0,0.0,0.0
+661,2772,cisco,israel,IL,31.47,35.13,system engineer,Engineering,4.0,4.0,85000.0,0.0,10000.0
+662,2773,industrial company,"casablanca, morocco",MA,32.0,-5.0,finance manager,Management,3.0,0.0,13200.0,0.0,8066.263736263736
+663,2777,stock broker,"barcelona, spain",ES,40.0,-4.0,junior web developer,Web,1.5,1.5,20000.0,0.0,3000.0
+664,2780,it minds,"copenhagen, denmark",DK,56.0,10.0,it consultent,Other,2.0,2.0,60000.0,0.0,0.0
+665,2784,sberbank,"moscow, russia",RU,60.0,100.0,oracle database developer,Data,15.0,1.0,24000.0,0.0,0.0
+666,2786,visa,singapore,SG,1.37,103.8,software engineer,Software,2.0,0.0,50000.0,2500.0,10.0
+667,2792,health ensurance company,germany,DE,51.0,9.0,system engineer,Engineering,10.0,10.0,67200.0,21800.483568075117,8066.263736263736
+668,2793,fortech s.r.l,"cluj-napoca, romania",OM,21.0,57.0,senior software engineer,Software,3.0,1.0,25200.0,0.0,0.0
+669,2794,30 person startup,"munich, germany",DE,51.0,9.0,software engineer,Software,6.0,1.0,46000.0,21800.483568075117,8066.263736263736
+670,2798,us based company,"athens, greece (remote)",GR,39.0,22.0,software engineer,Software,8.0,1.5,97000.0,21800.483568075117,2000.0
+671,2799,transplace,"greenville, sc",US,34.83,-82.37,senior software architect,Software,5.0,4.0,75000.0,21800.483568075117,8066.263736263736
+672,2801,small agency,ireland,IE,53.0,-8.0,senior developer,Software,15.0,1.0,50000.0,0.0,3000.0
+673,2803,tut,south africa,ZA,-29.0,24.0,junior lecturer,Other,15.0,8.0,260000.0,21800.483568075117,8066.263736263736
+674,2804,n-a,switzerland,CH,47.0,8.0,security,Other,6.0,1.0,115000.0,0.0,0.0
+675,2807,microsoft,"seattle, wa",US,47.61,-122.33,software developer engineer 2,Software,7.0,7.0,130000.0,30000.0,12000.0
+676,2818,reply spa,"milan, italy",IT,42.83,12.83,consultant,Other,4.0,1.0,31000.0,0.0,2000.0
+677,2822,tt-netvÌ_rket,denmark,DK,56.0,10.0,student worker,Other,3.0,3.0,13500.0,21800.483568075117,8066.263736263736
+678,2832,freelance,"cluj-napoca, romania",OM,21.0,57.0,software developer,Software,8.0,1.0,42000.0,21800.483568075117,8066.263736263736
+679,2839,early stage startup,"stockholm, sweden",SE,62.0,15.0,head of tech (first engineer),Engineering,10.0,0.5,73000.0,0.0,0.0
+680,2845,axis communications,"lund, sweden",SE,62.0,15.0,experienced software engineer,Software,9.0,6.0,510000.0,21800.483568075117,8066.263736263736
+681,2847,oracle,"cape town, south africa",ZA,-29.0,24.0,software developer,Software,0.0,1.0,32000.0,21800.483568075117,8066.263736263736
+682,2851,30 person startup,"new haven, ct, usa",US,41.31,-72.92,mobile engineer,Engineering,10.0,3.0,90000.0,0.0,0.0
+683,2862,northwestern mutual,"milwaukee, wi",US,43.06,-87.96,lead project manager,Management,13.0,11.0,102000.0,21800.483568075117,21000.0
+684,2868,inria,france,FR,46.0,2.0,research engineer,Engineering,10.0,1.0,32000.0,0.0,0.0
+685,2876,school,bermuda,BM,32.33,-64.75,physics teacher,Applied Science,8.0,0.5,98000.0,0.0,0.0
+686,2878,supplyhog,"chattanooga, tn",US,35.06,-85.25,sr. developer,Software,6.0,4.0,82000.0,21800.483568075117,8066.263736263736
+687,2881,spam spa,italy,IT,42.83,12.83,software developer,Software,10.0,5.0,35000.0,0.0,0.0
+688,2885,station ag,switzerland zurich,CH,47.0,8.0,web developer,Web,1.0,1.0,60000.0,21800.483568075117,5000.0
+689,2886,technicolor,france,FR,46.0,2.0,technical advisor,Other,8.0,1.0,90000.0,0.0,10.0
+690,2890,office depot,"boca raton, fl",US,26.37,-80.1,lead systems engineer,Engineering,25.0,9.0,100000.0,0.0,15000.0
+691,2893,curtiss-wright,"hatfield, pa",US,40.27,-75.29,lead software development engineer,Software,2.0,3.0,73000.0,0.0,1000.0
+692,2900,bestbuy,richfield mn,US,38.0,-97.0,senior web engineer,Web,3.0,1.0,110000.0,21800.483568075117,27000.0
+693,2901,abc,india,IN,20.0,77.0,software developer,Software,10.0,4.0,400000.0,21800.483568075117,8066.263736263736
+694,2906,parisian startup,"paris, france",FR,46.0,2.0,lead developer,Software,4.0,2.0,51000.0,2500.0,8066.263736263736
+695,2908,western union,montvale nj,US,38.0,-97.0,senior application architect,Other,18.0,2.0,130000.0,21800.483568075117,20000.0
+696,2909,interactive intelligence,indianapolis in,IN,20.0,77.0,development manager,Management,8.0,4.0,83500.0,0.0,15000.0
+697,2912,multinational mobile sector,"madrid, spain",ES,40.0,-4.0,software engineer,Software,7.0,5.0,30000.0,21800.483568075117,1500.0
+698,2913,local webdev company,germany,DE,51.0,9.0,fullstack webdeveloper,Web,20.0,2.0,37600.0,21800.483568075117,500.0
+699,2921,150 person it consulting company,"munich, germany",DE,51.0,9.0,senior consultant,Other,9.0,5.0,70000.0,0.0,3000.0
+700,2923,mirantis,"moscow, russia",RU,60.0,100.0,"openstack software engineer, t2",Software,6.0,1.0,34800.0,0.0,0.0
+701,2924,healthcare system,"grand rapids, mi",US,42.96,-85.65,application development analyst,Data,5.0,1.0,77000.0,0.0,500.0
+702,2933,a media company,new york,US,38.0,-97.0,runs numerous departments,Other,3.0,1.0,210000.0,21800.483568075117,50.0
+703,2934,independent school system,kentucky,US,38.0,-97.0,it technician,Other,5.0,2.0,22000.0,0.0,0.0
+704,2935,of grenoble,"grenoble, france",FR,46.0,2.0,postdoc,Other,4.0,1.0,33700.0,21800.483568075117,8066.263736263736
+705,2936,celtra,slovenia,SI,46.12,14.82,developer,Software,9.0,1.0,32000.0,0.0,9600.0
+706,2954,highmark,"pittsburgh, pa",US,40.35,-79.9,information security,Other,8.0,2.0,90000.0,5000.0,0.0
+707,2957,attain,"jblm, wa",US,47.05,-122.55,consultant,Other,6.0,3.0,65000.0,3000.0,0.0
+708,2962,grab,singapore,SG,1.37,103.8,sde 1,Software,1.0,1.0,70000.0,0.0,10000.0
+709,2969,salsify,"boston, ma",US,42.35,-71.06,senior software engineer,Software,5.0,1.0,130000.0,0.0,0.0
+710,2973,cirrus logic,"austin, tx",US,30.26,-97.74,senior verification engineer,Engineering,15.0,1.0,140000.0,10000.0,15000.0
+711,2974,amazon,"cambridge, ma",US,42.35,-71.06,sde ii,Software,3.5,3.5,119000.0,21800.483568075117,8066.263736263736
+712,2979,cybercom group,sweden,SE,62.0,15.0,software developer,Software,5.0,1.0,48000.0,0.0,0.0
+713,2980,software factory,argentina,AR,-34.0,-64.0,ios software developer,Software,3.0,3.0,23200.0,0.0,0.0
+714,2992,ullink,"cluj-napoca, romania",OM,21.0,57.0,software developer,Software,5.0,0.5,27000.0,3000.0,8066.263736263736
+715,2995,startup (20 people),"austin, tx",US,30.26,-97.74,developer,Software,5.0,3.0,92000.0,2000.0,0.0
+716,2996,manitoba public insurance,"winnipeg, mb canada",CA,60.0,-95.0,analyst,Data,6.0,6.0,71174.93,0.0,0.0
+717,3001,ibm,"durham, nc",US,35.98,-78.91,software engineer,Software,2.0,2.0,75000.0,3000.0,8066.263736263736
+718,3006,startup,new york city,US,38.0,-97.0,software engineer,Software,4.0,1.0,145000.0,0.0,0.0
+719,3010,ernst & young,"dallas, tx",US,32.79,-96.76,senior - risk assurance,Other,2.5,2.5,75000.0,3000.0,8066.263736263736
+720,3016,startup,"phoenix, az",US,33.45,-112.06,developer,Software,1.0,1.0,62000.0,0.0,5000.0
+721,3017,shutterstock,new york city,US,38.0,-97.0,principal software engineer,Software,10.0,2.0,160000.0,5000.0,10.0
+722,3019,divid,"jÌ¦nkÌ¦ping, sweden",SE,62.0,15.0,software developer,Software,10.0,3.0,48000.0,0.0,1500.0
+723,3023,ibm,"durham, nc",US,35.98,-78.91,network specialist,Other,25.0,1.0,117000.0,10000.0,0.0
+724,3025,mount anthony union hs,vermont,US,38.0,-97.0,technology teacher,Other,20.0,7.0,65000.0,0.0,0.0
+725,3029,medium financial firm,"columbus, oh",US,39.98,-82.98,systems administrator,Management,5.0,3.0,61000.0,21800.483568075117,2000.0
+726,3032,oklahoma,oklahoma city,US,38.0,-97.0,programmer analyst,Data,10.0,4.0,60000.0,0.0,0.0
+727,3036,cerner,"kansas city, mo",US,39.1,-94.62,software architect,Software,8.0,8.0,99000.0,0.0,0.0
+728,3040,allflex usa,"irving, tx",US,32.85,-96.96,sr. net developer,Software,8.0,0.0,90000.0,10000.0,0.0
+729,3055,american express,"st petersburg, fl",US,27.75,-82.64,developer,Software,0.0,0.5,78500.0,5000.0,8066.263736263736
+730,3059,code 42,"minneapolis, mn",US,44.96,-93.26,associate software engineer,Software,4.5,2.5,75600.0,21800.483568075117,4000.0
+731,3060,orbital atk,"wallops island, virginia",US,37.84,-75.47,associate electrical engineer,Engineering,2.0,1.0,65850.0,0.0,0.0
+732,3064,code 42,"minneapolis, mn",US,44.96,-93.26,senior software engineer,Software,9.0,4.0,96000.0,0.0,5000.0
+733,3071,amazon,"seattle, wa",US,47.61,-122.33,sysde,Software,10.0,1.5,120000.0,50000.0,0.0
+734,3073,radialpoint,"montreal, quebec, canada",CA,60.0,-95.0,senior software developer,Software,3.0,6.0,86400.0,21800.483568075117,7000.0
+735,3076,central  of las villas,"santa clara, cuba",CU,21.5,-80.0,senior fullstack developer,Web,18.0,15.0,240.0,0.0,0.0
+736,3078,local college,"philadelphia, pa",US,39.95,-75.16,web developer,Web,7.0,0.0,62000.0,0.0,0.0
+737,3081,docnetwork,"ann arbor, michigan",US,42.27,-83.73,developer,Software,5.0,0.0,42000.0,0.0,0.0
+738,3082,simplify digital,"aveiro, portugal",PT,39.5,-8.0,software developer,Software,4.0,2.0,25000.0,0.0,0.0
+739,3086,hewlett packard enterprise,serbia,RS,44.0,21.0,it engineer,Engineering,17.0,3.0,31200.0,21800.483568075117,8066.263736263736
+740,3087,mid-size startup (series b),"new york, ny",US,40.71,-73.99,tech lead,Software,6.0,2.0,170000.0,0.0,0.0
+741,3089,the boss,netherlands,NL,52.5,5.75,developer,Software,10.0,2.0,36000.0,0.0,8066.263736263736
+742,3094,laika,"portland, or",US,45.44,-122.52,systems administrator,Management,3.0,0.0,77000.0,0.0,2000.0
+743,3095,anonymous startup,"cambridge, ma",US,42.35,-71.06,software architect,Software,20.0,3.0,128000.0,0.0,0.0
+744,3096,missouri s&t,"rolla, mo",US,37.94,-91.76,systems administrator,Management,15.0,10.0,56000.0,0.0,0.0
+745,3097,customers bank,shillington pa,US,38.0,-97.0,software admin,Management,9.0,0.25,76000.0,0.0,1000.0
+746,3098,freelance,british columbia,CA,60.0,-95.0,contractor,Other,10.0,2.0,160000.0,21800.483568075117,8066.263736263736
+747,3100,epic,"madison, wi",US,43.1,-89.5,integration engineer,Engineering,7.0,5.0,73000.0,0.0,5000.0
+748,3101,china airlines,taiwan,TW,23.5,121.0,assistant programmer,Other,1.0,1.0,13000.0,0.0,1500.0
+749,3102,maine oit,"augusta, me",US,44.33,-69.72,computer programmer,Other,9.0,1.0,40000.0,0.0,2000.0
+750,3104,twilio,"san francisco, ca",US,37.77,-122.41,senior software engineer,Software,10.0,3.0,135000.0,5000.0,8066.263736263736
+751,3108,us army,"radford, va",US,37.12,-80.55,it specialist,Other,6.0,6.0,72000.0,0.0,2000.0
+752,3120,zillow,"seattle, wa",US,47.61,-122.33,senior software development engineer,Software,4.0,1.0,140000.0,30000.0,0.0
+753,3123,altice labs,"aveiro, portugal",PT,39.5,-8.0,software engineer,Software,5.0,1.0,23000.0,0.0,0.0
+754,3126,coupang,"palo alto, ca",US,37.44,-122.15,software engineer,Software,3.0,1.0,125000.0,21800.483568075117,8066.263736263736
+755,3128,scopely,"culver city, ca",US,33.99,-118.39,people business partner,Other,3.0,3.0,140000.0,0.0,20000.0
+756,3135,facebook,"menlo park, ca",US,37.45,-122.17,software engineer,Software,0.0,0.0,105000.0,85000.0,10000.0
+757,3138,insurance company,"philadelphia, pa",US,39.95,-75.16,senior software developer,Software,16.0,9.0,97000.0,21800.483568075117,8066.263736263736
+758,3155,emarketer,new york,US,38.0,-97.0,vp business development,Management,10.0,5.0,65000.0,0.0,2500.0
+759,3160,trading technologies,"chicago, il",US,41.85,-87.65,principal software engineer,Software,13.0,9.0,159000.0,0.0,0.0
+760,3164,ion trading,"pisa, italy",IT,42.83,12.83,software developer,Software,0.0,2.0,33600.0,21800.483568075117,1120.0
+761,3168,groupon,"baltimore, md",US,39.3,-76.61,senior software engineer,Software,10.0,1.0,110000.0,0.0,0.0
+762,3182,hitfox group,"berlin, germany",DE,51.0,9.0,developer,Software,2.0,1.5,50400.0,0.0,0.0
+763,3186,lufthansa,"frankfurt, germany",DE,51.0,9.0,it security specialist,Other,10.0,15.0,65000.0,21800.483568075117,5000.0
+764,3189,underarmour connected fitness,"austin, tx",US,30.26,-97.74,senior software engineer,Software,15.0,2.0,130000.0,0.0,15000.0
+765,3192,deloitte,netherlands,NL,52.5,5.75,junior manager,Management,6.0,0.0,51192.0,1500.0,8066.263736263736
+766,3194,microsoft,"bellevue, wa, usa",US,47.61,-122.21,sde ii,Software,8.0,1.2,125000.0,15000.0,8066.263736263736
+767,3197,intel,ireland,IE,53.0,-8.0,software architect,Software,10.0,3.0,80000.0,21800.483568075117,20000.0
+768,3198,cisco,ireland,IE,53.0,-8.0,software engineer,Software,4.0,1.0,50000.0,0.0,4000.0
+769,3200,counsyl,"south san francisco, ca",US,37.65,-122.42,software engineer,Software,4.0,2.0,110000.0,10000.0,0.0
+770,3201,intel,ireland,IE,53.0,-8.0,sysadmin,Management,20.0,4.0,80000.0,21800.483568075117,8066.263736263736
+771,3202,ibm,"raleigh, nc",US,35.82,-78.65,senior engineer (band 9),Engineering,15.0,10.0,146000.0,0.0,5000.0
+772,3204,unionized tech nonprofit,"boston, ma",US,42.35,-71.06,program manager,Management,10.0,1.0,59800.0,0.0,0.0
+773,3206,the charlton group,"boston, ma",US,42.35,-71.06,sysadmin,Management,14.0,9.0,85000.0,0.0,3.0
+774,3209,fortune-500,"ottawa, canada",CA,60.0,-95.0,tech lead,Software,25.0,5.0,126000.0,10000.0,3000.0
+775,3223,startup,"sydney, australia",AU,-27.0,133.0,principal software engineer,Software,8.0,2.0,130000.0,0.0,0.0
+776,3225,startup,"san francisco, ca",US,37.77,-122.41,software engineer,Software,2.0,2.0,130000.0,21800.483568075117,8066.263736263736
+777,3226,engineering comp,"bangalore,india",IN,20.0,77.0,development e,Software,5.0,3.0,32000.0,0.0,0.0
+778,3227,amazon,"seattle, wa",US,47.61,-122.33,software development engineer,Software,3.0,0.0,110000.0,22000.0,0.0
+779,3228,microsoft,"redmond, wa",US,47.68,-122.12,intern,Other,2.0,1.0,90000.0,5000.0,0.0
+780,3242,d2l,"kitchener, on",CA,60.0,-95.0,software developer,Software,2.0,2.0,70000.0,0.0,3.0
+781,3243,tendril,"boulder, co",US,40.02,-105.25,software engineer,Software,3.0,1.5,110000.0,2500.0,11000.0
+782,3244,usc,los angeles ca,US,38.0,-97.0,research specialist,Other,11.0,1.0,55000.0,0.0,0.0
+783,3252,up next,"poland, warsaw",PL,52.0,20.0,programmer,Other,6.0,1.0,12000.0,21800.483568075117,8066.263736263736
+784,3255,accenture,"pune, india",IN,20.0,77.0,software engineer,Software,3.0,1.0,575000.0,50000.0,80000.0
+785,3265,small mobile product shop,"atlanta, ga",US,33.64,-84.39,senior developer,Software,12.0,5.0,132000.0,21800.483568075117,10000.0
+786,3270,startup,"cambridge, ma",US,42.35,-71.06,front end developer,Web,3.0,1.0,70000.0,21800.483568075117,8066.263736263736
+787,3276,homenet automotive,"exton, pa",US,40.03,-75.63,software engineer i,Software,2.0,1.0,60000.0,0.0,10.0
+788,3278,comcast,"philadelphia, pa",US,39.95,-75.16,software engineer,Software,6.0,2.5,111000.0,5000.0,8.0
+789,3287,mainz brady group - contractor at nike,"beaverton, or",US,45.49,-122.8,front-end developer,Web,2.0,1.0,50.0,21800.483568075117,8066.263736263736
+790,3289,sparkfun electronics,"boulder, co",US,40.02,-105.25,junior software developer,Software,1.0,0.5,60500.0,0.0,800.0
+791,3294,of maryland,"college park, md",US,38.99,-76.93,scientific programmer (faculty research assistant),Applied Science,5.0,1.0,75000.0,21800.483568075117,8066.263736263736
